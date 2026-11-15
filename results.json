@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-15T12:36:06+05:30",
+ "generated": "2026-11-15T12:36:29+05:30",
  "names_updated": "2026-11-14T09:47:15+05:30",
  "limits": {
   "MC": [
@@ -42,8 +42,8 @@
  "count": 291,
  "counts": {
   "complete": 255,
-  "incomplete": 35,
-  "not started": 1,
+  "incomplete": 36,
+  "not started": 0,
   "awaiting approval": 53
  },
  "results": [
@@ -6205,7 +6205,7 @@
    "name": "K7-261024-P05",
    "supplier": "R&D Satapar K7 Experiment 1",
    "date": "2026-11-04",
-   "status": "not started",
+   "status": "incomplete",
    "pending": [
     "MC",
     "VM",
@@ -6222,7 +6222,7 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": ""
+   "last_entry": "Mohan | Moisture W1 | 15-Nov-2026 12:36"
   }
  ],
  "awaiting_approval": [
