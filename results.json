@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-15T16:53:38+05:30",
+ "generated": "2026-11-15T16:53:57+05:30",
  "names_updated": "2026-11-14T09:47:15+05:30",
  "limits": {
   "MC": [
@@ -6121,21 +6121,20 @@
    "date": "2026-11-04",
    "status": "incomplete",
    "pending": [
-    "VM",
     "ASH"
    ],
    "moisture": 2.8,
    "total_moisture": null,
-   "vm_loss": null,
-   "vm_ar": null,
-   "vm_db": null,
+   "vm_loss": 14.88,
+   "vm_ar": 12.08,
+   "vm_db": 12.43,
    "ash_ar": null,
    "ash_db": null,
    "fc_ar": null,
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "Mohan | Ash W2 | 15-Nov-2026 16:25"
+   "last_entry": "Mohan | Volatile Matter W3 | 15-Nov-2026 16:53"
   },
   {
    "code": "T1081",
