@@ -340,7 +340,8 @@
   "T1061",
   "T1069",
   "T1070",
-  "T1071"
+  "T1071",
+  "T1072"
  ],
  "samples": {
   "T612": {
@@ -62478,6 +62479,33 @@
    "hb": {
     "MC": 1
    }
+  },
+  "T1072": {
+   "tm": false,
+   "w": {
+    "MC": [
+     null,
+     null,
+     null
+    ],
+    "VM": [
+     null,
+     null,
+     null
+    ],
+    "ASH": [
+     null,
+     null,
+     null
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "pct": {},
+   "last": ""
   }
  },
  "batches": {
