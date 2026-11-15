@@ -1,7 +1,7 @@
 {
  "app": "proximate-retest",
  "version": 1,
- "generated": "2026-11-15T16:46:41+05:30",
+ "generated": "2026-11-15T16:47:40+05:30",
  "limits": {
   "MC": [
    1.5,
@@ -30,10 +30,10 @@
   "FC"
  ],
  "rule": "moisture, VM (db), ash (db), fixed carbon (db) or total moisture above the upper limit, below the lower limit, or negative, and not approved",
- "count": 54,
+ "count": 55,
  "by_test": {
   "MC": 14,
-  "VM": 21,
+  "VM": 22,
   "ASH": 28,
   "FC": 28,
   "TM": 0
@@ -1138,6 +1138,25 @@
    "moisture": 2.44,
    "vm_ar": 17.37,
    "ash_ar": 4.78,
+   "total_moisture": null,
+   "approval_outdated": false
+  },
+  {
+   "code": "T1070",
+   "name": "K7-261024-P01-L",
+   "supplier": "R&D Satapar K7 Experiment 1",
+   "date": "2026-11-04",
+   "status": "complete",
+   "flags": [
+    "VM 23.05 % db above 17.5 % db"
+   ],
+   "checks": [],
+   "retest": [
+    "VM"
+   ],
+   "moisture": 2.21,
+   "vm_ar": 22.54,
+   "ash_ar": 4.08,
    "total_moisture": null,
    "approval_outdated": false
   }
