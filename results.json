@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-15T17:51:51+05:30",
+ "generated": "2026-11-15T17:52:14+05:30",
  "names_updated": "2026-11-14T09:47:15+05:30",
  "limits": {
   "MC": [
@@ -41,8 +41,8 @@
  },
  "count": 290,
  "counts": {
-  "complete": 260,
-  "incomplete": 30,
+  "complete": 261,
+  "incomplete": 29,
   "not started": 0,
   "awaiting approval": 60
  },
@@ -6137,22 +6137,20 @@
    "name": "K7-261024-P10",
    "supplier": "R&D Satapar K7 Experiment 1",
    "date": "2026-11-04",
-   "status": "incomplete",
-   "pending": [
-    "ASH"
-   ],
+   "status": "complete",
+   "pending": [],
    "moisture": 2.59,
    "total_moisture": null,
    "vm_loss": 10.81,
    "vm_ar": 8.21,
    "vm_db": 8.43,
-   "ash_ar": null,
-   "ash_db": null,
-   "fc_ar": null,
-   "fc_db": null,
+   "ash_ar": 4.75,
+   "ash_db": 4.88,
+   "fc_ar": 84.44,
+   "fc_db": 86.69,
    "flags": [],
    "checks": [],
-   "last_entry": "Mohan | Moisture W3 | 15-Nov-2026 17:49"
+   "last_entry": "Mohan | Ash W3 | 15-Nov-2026 17:52"
   },
   {
    "code": "T1082",
