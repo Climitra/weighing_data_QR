@@ -63857,7 +63857,9 @@
    "bal": 1,
    "start": 1794729057944,
    "mins": 60,
-   "by": "Supervisor (timer)"
+   "by": "Supervisor (timer)",
+   "outAt": 1794732743710,
+   "outBy": "Supervisor (timer)"
   },
   "2026-11-15-F2-mwhjcply": {
    "rid": "2026-11-15-F2-mwhjcply",
