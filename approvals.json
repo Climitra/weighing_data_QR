@@ -2040,6 +2040,36 @@
    },
    "note": "note down from paper following protocall thts why it takes 0 minute",
    "via": "results page"
+  },
+  "T1091": {
+   "by": "Deepak Pandey",
+   "at": "2026-11-16T17:42:19+05:30",
+   "flags": "",
+   "checks": "Moisture W3 only 0 min after W2 (heating is 60 min), VM W3 only 2 min after W2 (heating is 7 min), Ash W3 only 2 min after W2 (heating is 60 min), VM 11.91 % db unusual for R&D Satapar Kontiki (Z +4.0, usual 9.3 %), Ash 7.99 % db unusual for R&D Satapar Kontiki (Z +3.6, usual 5.9 %)",
+   "w": {
+    "MC": [
+     44.4072,
+     45.4073,
+     45.3147
+    ],
+    "VM": [
+     16.0287,
+     17.0302,
+     16.8292
+    ],
+    "ASH": [
+     14.4788,
+     15.4802,
+     14.5514
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "note": "ok",
+   "via": "results page"
   }
  },
  "limits": {
@@ -2064,5 +2094,5 @@
    60
   ]
  },
- "updated": "2026-11-16T17:21:10+05:30"
+ "updated": "2026-11-16T17:42:19+05:30"
 }
