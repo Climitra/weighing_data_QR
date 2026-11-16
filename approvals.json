@@ -2130,6 +2130,36 @@
    },
    "note": "note down from paper following protocall thts why it takes 0 minute",
    "via": "results page"
+  },
+  "T1088": {
+   "by": "Deepak Pandey",
+   "at": "2026-11-16T17:42:51+05:30",
+   "flags": "",
+   "checks": "Moisture W3 only 0 min after W2 (heating is 60 min), VM W3 only 3 min after W2 (heating is 7 min), Ash W3 only 3 min after W2 (heating is 60 min)",
+   "w": {
+    "MC": [
+     42.7538,
+     43.7586,
+     43.729
+    ],
+    "VM": [
+     15.5664,
+     16.5673,
+     16.4534
+    ],
+    "ASH": [
+     14.0368,
+     15.0377,
+     14.0954
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "note": "note down from paper following protocall thts why it takes 0 minute",
+   "via": "results page"
   }
  },
  "limits": {
@@ -2154,5 +2184,5 @@
    60
   ]
  },
- "updated": "2026-11-16T17:42:42+05:30"
+ "updated": "2026-11-16T17:42:51+05:30"
 }
