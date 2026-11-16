@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-16T17:20:51+05:30",
+ "generated": "2026-11-16T17:21:10+05:30",
  "names_updated": "2026-11-16T15:47:16+05:30",
  "limits": {
   "MC": [
@@ -41,8 +41,8 @@
  },
  "count": 299,
  "counts": {
-  "complete": 267,
-  "incomplete": 32,
+  "complete": 269,
+  "incomplete": 30,
   "not started": 0,
   "awaiting approval": 60
  },
@@ -6299,44 +6299,40 @@
    "name": "Kontiki-261031-T-C",
    "supplier": "R&D Satapar Kontiki",
    "date": "2026-10-31",
-   "status": "incomplete",
-   "pending": [
-    "VM"
-   ],
+   "status": "complete",
+   "pending": [],
    "moisture": 2.24,
    "total_moisture": null,
-   "vm_loss": null,
-   "vm_ar": null,
-   "vm_db": null,
+   "vm_loss": 11.25,
+   "vm_ar": 9.01,
+   "vm_db": 9.22,
    "ash_ar": 5.39,
    "ash_db": 5.51,
-   "fc_ar": null,
-   "fc_db": null,
+   "fc_ar": 83.36,
+   "fc_db": 85.27,
    "flags": [],
    "checks": [],
-   "last_entry": "Ramesh | Volatile Matter W2 | 16-Nov-2026 17:17"
+   "last_entry": "Ramesh | Volatile Matter W3 | 16-Nov-2026 17:20"
   },
   {
    "code": "T1090",
    "name": "Kontiki-261031-T-L",
    "supplier": "R&D Satapar Kontiki",
    "date": "2026-10-31",
-   "status": "incomplete",
-   "pending": [
-    "VM"
-   ],
+   "status": "complete",
+   "pending": [],
    "moisture": 3.95,
    "total_moisture": null,
-   "vm_loss": null,
-   "vm_ar": null,
-   "vm_db": null,
+   "vm_loss": 15.88,
+   "vm_ar": 11.94,
+   "vm_db": 12.43,
    "ash_ar": 11.12,
    "ash_db": 11.57,
-   "fc_ar": null,
-   "fc_db": null,
+   "fc_ar": 73.0,
+   "fc_db": 76.0,
    "flags": [],
    "checks": [],
-   "last_entry": "Ramesh | Volatile Matter W2 | 16-Nov-2026 17:18"
+   "last_entry": "Ramesh | Volatile Matter W3 | 16-Nov-2026 17:21"
   },
   {
    "code": "T1091",
