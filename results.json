@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-16T17:13:31+05:30",
+ "generated": "2026-11-16T17:13:49+05:30",
  "names_updated": "2026-11-16T15:47:16+05:30",
  "limits": {
   "MC": [
@@ -6247,21 +6247,20 @@
    "date": "2026-10-31",
    "status": "incomplete",
    "pending": [
-    "VM",
-    "ASH"
+    "VM"
    ],
    "moisture": 4.99,
    "total_moisture": null,
    "vm_loss": null,
    "vm_ar": null,
    "vm_db": null,
-   "ash_ar": null,
-   "ash_db": null,
+   "ash_ar": 5.44,
+   "ash_db": 5.73,
    "fc_ar": null,
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "Ramesh | Ash W2 | 16-Nov-2026 17:09"
+   "last_entry": "Ramesh | Ash W3 | 16-Nov-2026 17:13"
   },
   {
    "code": "T1087",
