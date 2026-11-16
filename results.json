@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-16T17:21:10+05:30",
+ "generated": "2026-11-16T17:21:30+05:30",
  "names_updated": "2026-11-16T15:47:16+05:30",
  "limits": {
   "MC": [
@@ -41,8 +41,8 @@
  },
  "count": 299,
  "counts": {
-  "complete": 269,
-  "incomplete": 30,
+  "complete": 270,
+  "incomplete": 29,
   "not started": 0,
   "awaiting approval": 60
  },
@@ -6339,22 +6339,20 @@
    "name": "Kontiki-261031-T-R",
    "supplier": "R&D Satapar Kontiki",
    "date": "2026-10-31",
-   "status": "incomplete",
-   "pending": [
-    "VM"
-   ],
+   "status": "complete",
+   "pending": [],
    "moisture": 9.26,
    "total_moisture": null,
-   "vm_loss": null,
-   "vm_ar": null,
-   "vm_db": null,
+   "vm_loss": 20.07,
+   "vm_ar": 10.81,
+   "vm_db": 11.91,
    "ash_ar": 7.25,
    "ash_db": 7.99,
-   "fc_ar": null,
-   "fc_db": null,
+   "fc_ar": 72.68,
+   "fc_db": 80.1,
    "flags": [],
    "checks": [],
-   "last_entry": "Ramesh | Volatile Matter W2 | 16-Nov-2026 17:18"
+   "last_entry": "Ramesh | Volatile Matter W3 | 16-Nov-2026 17:21"
   }
  ],
  "awaiting_approval": [
