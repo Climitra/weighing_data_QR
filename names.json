@@ -1,8 +1,8 @@
 {
  "app": "proximate-weighing-names",
- "updated": "2026-11-14T09:47:15+05:30",
+ "updated": "2026-11-16T15:47:16+05:30",
  "source": "sample_code / Name Tags",
- "count": 1077,
+ "count": 1086,
  "names": {
   "T01": {
    "name": "SUMRASAR-JB1-20261003",
@@ -6017,6 +6017,51 @@
    "name": "K7-261024-P11",
    "supplier": "R&D Satapar K7 Experiment 1",
    "date": "2026-11-04"
+  },
+  "T1083": {
+   "name": "Kontiki-261031-B-C",
+   "supplier": "R&D Satapar Kontiki",
+   "date": "2026-10-31"
+  },
+  "T1084": {
+   "name": "Kontiki-261031-B-L",
+   "supplier": "R&D Satapar Kontiki",
+   "date": "2026-10-31"
+  },
+  "T1085": {
+   "name": "Kontiki-261031-B-R",
+   "supplier": "R&D Satapar Kontiki",
+   "date": "2026-10-31"
+  },
+  "T1086": {
+   "name": "Kontiki-261031-M-C",
+   "supplier": "R&D Satapar Kontiki",
+   "date": "2026-10-31"
+  },
+  "T1087": {
+   "name": "Kontiki-261031-M-L",
+   "supplier": "R&D Satapar Kontiki",
+   "date": "2026-10-31"
+  },
+  "T1088": {
+   "name": "Kontiki-261031-M-R",
+   "supplier": "R&D Satapar Kontiki",
+   "date": "2026-10-31"
+  },
+  "T1089": {
+   "name": "Kontiki-261031-T-C",
+   "supplier": "R&D Satapar Kontiki",
+   "date": "2026-10-31"
+  },
+  "T1090": {
+   "name": "Kontiki-261031-T-L",
+   "supplier": "R&D Satapar Kontiki",
+   "date": "2026-10-31"
+  },
+  "T1091": {
+   "name": "Kontiki-261031-T-R",
+   "supplier": "R&D Satapar Kontiki",
+   "date": "2026-10-31"
   }
  }
 }
