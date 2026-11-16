@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-16T16:57:16+05:30",
+ "generated": "2026-11-16T16:57:59+05:30",
  "names_updated": "2026-11-16T15:47:16+05:30",
  "limits": {
   "MC": [
@@ -42,8 +42,8 @@
  "count": 291,
  "counts": {
   "complete": 261,
-  "incomplete": 29,
-  "not started": 1,
+  "incomplete": 30,
+  "not started": 0,
   "awaiting approval": 60
  },
  "results": [
@@ -6179,7 +6179,7 @@
    "name": "Kontiki-261031-B-C",
    "supplier": "R&D Satapar Kontiki",
    "date": "2026-10-31",
-   "status": "not started",
+   "status": "incomplete",
    "pending": [
     "MC",
     "VM",
@@ -6196,7 +6196,7 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": ""
+   "last_entry": "Ramesh | Moisture W2 | 16-Nov-2026 16:57"
   }
  ],
  "awaiting_approval": [
