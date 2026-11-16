@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-16T16:58:33+05:30",
+ "generated": "2026-11-16T16:59:31+05:30",
  "names_updated": "2026-11-16T15:47:16+05:30",
  "limits": {
   "MC": [
@@ -39,11 +39,11 @@
   "ash_db": "ash_ar / (100 - moisture) * 100",
   "fc": "100 minus the others, by difference"
  },
- "count": 291,
+ "count": 292,
  "counts": {
   "complete": 261,
   "incomplete": 30,
-  "not started": 0,
+  "not started": 1,
   "awaiting approval": 60
  },
  "results": [
@@ -6196,6 +6196,30 @@
    "flags": [],
    "checks": [],
    "last_entry": "Ramesh | Moisture W3 | 16-Nov-2026 16:58"
+  },
+  {
+   "code": "T1084",
+   "name": "Kontiki-261031-B-L",
+   "supplier": "R&D Satapar Kontiki",
+   "date": "2026-10-31",
+   "status": "not started",
+   "pending": [
+    "MC",
+    "VM",
+    "ASH"
+   ],
+   "moisture": null,
+   "total_moisture": null,
+   "vm_loss": null,
+   "vm_ar": null,
+   "vm_db": null,
+   "ash_ar": null,
+   "ash_db": null,
+   "fc_ar": null,
+   "fc_db": null,
+   "flags": [],
+   "checks": [],
+   "last_entry": ""
   }
  ],
  "awaiting_approval": [
