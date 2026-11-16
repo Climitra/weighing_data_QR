@@ -289,8 +289,8 @@ T1079,K7-261024-P08,R&D Satapar K7 Experiment 1,2026-11-04,complete,,1.56,,10.78
 T1080,K7-261024-P09,R&D Satapar K7 Experiment 1,2026-11-04,complete,,2.8,,14.88,12.08,12.43,3.08,3.17,82.04,84.4,,,,,Mohan | Ash W3 | 15-Nov-2026 17:51
 T1081,K7-261024-P10,R&D Satapar K7 Experiment 1,2026-11-04,complete,,2.59,,10.81,8.21,8.43,4.75,4.88,84.44,86.69,,,,,Mohan | Ash W3 | 15-Nov-2026 17:52
 T1082,K7-261024-P11,R&D Satapar K7 Experiment 1,2026-11-04,incomplete,VM,3.33,,,,,4.17,4.31,,,,,,,Mohan | Ash W3 | 15-Nov-2026 17:52
-T1083,Kontiki-261031-B-C,R&D Satapar Kontiki,2026-10-31,incomplete,VM,6.43,,,,,7.29,7.79,,,,,,,Ramesh | Volatile Matter W2 | 16-Nov-2026 17:15
-T1084,Kontiki-261031-B-L,R&D Satapar Kontiki,2026-10-31,incomplete,VM,3.9,,,,,5.53,5.76,,,,,,,Ramesh | Volatile Matter W2 | 16-Nov-2026 17:15
+T1083,Kontiki-261031-B-C,R&D Satapar Kontiki,2026-10-31,complete,,6.43,,15.48,9.05,9.67,7.29,7.79,77.23,82.54,,,,,Ramesh | Volatile Matter W3 | 16-Nov-2026 17:19
+T1084,Kontiki-261031-B-L,R&D Satapar Kontiki,2026-10-31,complete,,3.9,,13.06,9.16,9.53,5.53,5.76,81.41,84.71,,,,,Ramesh | Volatile Matter W3 | 16-Nov-2026 17:19
 T1085,Kontiki-261031-B-R,R&D Satapar Kontiki,2026-10-31,incomplete,VM,5.08,,,,,5.98,6.3,,,,,,,Ramesh | Volatile Matter W2 | 16-Nov-2026 17:16
 T1086,Kontiki-261031-M-C,R&D Satapar Kontiki,2026-10-31,incomplete,VM,4.99,,,,,5.44,5.73,,,,,,,Ramesh | Volatile Matter W2 | 16-Nov-2026 17:16
 T1087,Kontiki-261031-M-L,R&D Satapar Kontiki,2026-10-31,incomplete,VM,2.2,,,,,4.36,4.45,,,,,,,Ramesh | Volatile Matter W2 | 16-Nov-2026 17:17
