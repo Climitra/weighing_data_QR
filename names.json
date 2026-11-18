@@ -1,8 +1,8 @@
 {
  "app": "proximate-weighing-names",
- "updated": "2026-11-16T15:47:16+05:30",
+ "updated": "2026-11-18T10:14:23+05:30",
  "source": "sample_code / Name Tags",
- "count": 1086,
+ "count": 1101,
  "names": {
   "T01": {
    "name": "SUMRASAR-JB1-20261003",
@@ -5927,8 +5927,7 @@
   "T1065": {
    "name": "GorChuri10",
    "supplier": "Climitra Lab Portal",
-   "date": "2026-11-05",
-   "machine": "W1"
+   "date": "2026-11-05"
   },
   "T1066": {
    "name": "GorChuri11",
@@ -6062,6 +6061,99 @@
    "name": "Kontiki-261031-T-R",
    "supplier": "R&D Satapar Kontiki",
    "date": "2026-10-31"
+  },
+  "T1092": {
+   "name": "Kontiki-Slider V-1-261116-B-C",
+   "supplier": "R&D Satapar Kontiki Sliding Churi Experiment 1",
+   "date": "2026-11-16",
+   "machine": "W1",
+   "batch": 36
+  },
+  "T1093": {
+   "name": "Kontiki-Slider V-1-261116-B-L",
+   "supplier": "R&D Satapar Kontiki Sliding Churi Experiment 1",
+   "date": "2026-11-16",
+   "machine": "W1",
+   "batch": 36
+  },
+  "T1094": {
+   "name": "Kontiki-Slider V-1-261116-B-R",
+   "supplier": "R&D Satapar Kontiki Sliding Churi Experiment 1",
+   "date": "2026-11-16",
+   "machine": "W1",
+   "batch": 36
+  },
+  "T1095": {
+   "name": "Kontiki-Slider V-1-261116-M-C",
+   "supplier": "R&D Satapar Kontiki Sliding Churi Experiment 1",
+   "date": "2026-11-16",
+   "machine": "W1",
+   "batch": 36
+  },
+  "T1096": {
+   "name": "Kontiki-Slider V-1-261116-M-L",
+   "supplier": "R&D Satapar Kontiki Sliding Churi Experiment 1",
+   "date": "2026-11-16",
+   "machine": "W1",
+   "batch": 36
+  },
+  "T1097": {
+   "name": "Kontiki-Slider V-1-261116-M-R",
+   "supplier": "R&D Satapar Kontiki Sliding Churi Experiment 1",
+   "date": "2026-11-16",
+   "machine": "W1",
+   "batch": 36
+  },
+  "T1098": {
+   "name": "Kontiki-Slider V-1-261116-T-C",
+   "supplier": "R&D Satapar Kontiki Sliding Churi Experiment 1",
+   "date": "2026-11-16",
+   "machine": "W1",
+   "batch": 36
+  },
+  "T1099": {
+   "name": "Kontiki-Slider V-1-261116-T-L",
+   "supplier": "R&D Satapar Kontiki Sliding Churi Experiment 1",
+   "date": "2026-11-16",
+   "machine": "W1",
+   "batch": 36
+  },
+  "T1100": {
+   "name": "Kontiki-Slider V-1-261116-T-R",
+   "supplier": "R&D Satapar Kontiki Sliding Churi Experiment 1",
+   "date": "2026-11-16",
+   "machine": "W1",
+   "batch": 36
+  },
+  "T1101": {
+   "name": "Adam retort-261115-P01",
+   "supplier": "R&D Satapar Adam retort",
+   "date": "2026-11-15"
+  },
+  "T1102": {
+   "name": "Adam retort-261115-P02",
+   "supplier": "R&D Satapar Adam retort",
+   "date": "2026-11-15"
+  },
+  "T1103": {
+   "name": "Adam retort-261115-P03",
+   "supplier": "R&D Satapar Adam retort",
+   "date": "2026-11-15"
+  },
+  "T1104": {
+   "name": "Adam retort-261115-P04",
+   "supplier": "R&D Satapar Adam retort",
+   "date": "2026-11-15"
+  },
+  "T1105": {
+   "name": "Adam retort-261115-P05",
+   "supplier": "R&D Satapar Adam retort",
+   "date": "2026-11-15"
+  },
+  "T1106": {
+   "name": "Adam retort-261115-P06",
+   "supplier": "R&D Satapar Adam retort",
+   "date": "2026-11-15"
   }
  }
 }
