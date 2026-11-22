@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-22T18:23:56+05:30",
+ "generated": "2026-11-22T18:26:19+05:30",
  "names_updated": "2026-11-22T15:17:16+05:30",
  "limits": {
   "MC": [
@@ -39,10 +39,10 @@
   "ash_db": "ash_ar / (100 - moisture) * 100",
   "fc": "100 minus the others, by difference"
  },
- "count": 299,
+ "count": 300,
  "counts": {
-  "complete": 276,
-  "incomplete": 23,
+  "complete": 278,
+  "incomplete": 22,
   "not started": 0,
   "awaiting approval": 61
  },
@@ -5269,22 +5269,20 @@
    "name": "CH2/114",
    "supplier": "Tata 500 PO dMRV · Charanka 2 · Jumbo bag sampling",
    "date": "2026-10-31",
-   "status": "incomplete",
-   "pending": [
-    "MC"
-   ],
-   "moisture": null,
+   "status": "complete",
+   "pending": [],
+   "moisture": 4.82,
    "total_moisture": null,
    "vm_loss": 17.44,
-   "vm_ar": null,
-   "vm_db": null,
+   "vm_ar": 12.63,
+   "vm_db": 13.26,
    "ash_ar": 7.48,
-   "ash_db": null,
-   "fc_ar": null,
-   "fc_db": null,
+   "ash_db": 7.86,
+   "fc_ar": 75.07,
+   "fc_db": 78.87,
    "flags": [],
    "checks": [],
-   "last_entry": "Mohan | Ash W3 | 22-Nov-2026 18:03"
+   "last_entry": "Mohan | Moisture W3 | 22-Nov-2026 18:26"
   },
   {
    "code": "T952",
@@ -6317,6 +6315,26 @@
    "flags": [],
    "checks": [],
    "last_entry": "Ramesh | Volatile Matter W3 | 16-Nov-2026 17:21"
+  },
+  {
+   "code": "T1098",
+   "name": "Kontiki-Slider V-1-261116-T-C",
+   "supplier": "R&D Satapar Kontiki Sliding Churi Experiment 1",
+   "date": "2026-11-16",
+   "status": "complete",
+   "pending": [],
+   "moisture": 1.63,
+   "total_moisture": null,
+   "vm_loss": 15.46,
+   "vm_ar": 13.83,
+   "vm_db": 14.06,
+   "ash_ar": 4.83,
+   "ash_db": 4.91,
+   "fc_ar": 79.71,
+   "fc_db": 81.03,
+   "flags": [],
+   "checks": [],
+   "last_entry": "Girish | Moisture, Volatile Matter, Ash typed in from paper (results page) | 22-Nov-2026 18:25"
   },
   {
    "code": "T1099",

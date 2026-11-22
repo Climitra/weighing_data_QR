@@ -246,7 +246,7 @@ T947,CH2/110,Tata 500 PO dMRV · Charanka 2 · Jumbo bag sampling,2026-10-31,com
 T948,CH2/111,Tata 500 PO dMRV · Charanka 2 · Jumbo bag sampling,2026-10-31,incomplete,Ash,2.65,,15.7,13.06,13.41,,,,,,,,,Girish | Volatile Matter typed in from paper (by Claude) | 13-Nov-2026 14:51
 T949,CH2/112,Tata 500 PO dMRV · Charanka 2 · Jumbo bag sampling,2026-10-31,complete,,3.7,,14.43,10.72,11.14,4.69,4.87,80.88,84.0,,,,,Mohan | Ash W3 | 22-Nov-2026 18:02
 T950,CH2/113,Tata 500 PO dMRV · Charanka 2 · Jumbo bag sampling,2026-10-31,incomplete,Moisture,,,14.51,,,10.2,,,,,,,,Mohan | Ash W3 | 22-Nov-2026 18:02
-T951,CH2/114,Tata 500 PO dMRV · Charanka 2 · Jumbo bag sampling,2026-10-31,incomplete,Moisture,,,17.44,,,7.48,,,,,,,,Mohan | Ash W3 | 22-Nov-2026 18:03
+T951,CH2/114,Tata 500 PO dMRV · Charanka 2 · Jumbo bag sampling,2026-10-31,complete,,4.82,,17.44,12.63,13.26,7.48,7.86,75.07,78.87,,,,,Mohan | Moisture W3 | 22-Nov-2026 18:26
 T952,CH2/115,Tata 500 PO dMRV · Charanka 2 · Jumbo bag sampling,2026-10-31,incomplete,Moisture,,,14.65,,,14.13,,,,,,,,Mohan | Ash W3 | 22-Nov-2026 18:03
 T953,CH2/116,Tata 500 PO dMRV · Charanka 2 · Jumbo bag sampling,2026-10-31,incomplete,"Moisture, Ash",,,14.02,,,,,,,,,,,Girish | Volatile Matter typed in from paper (by Claude) | 13-Nov-2026 14:51
 T954,CH2/117,Tata 500 PO dMRV · Charanka 2 · Jumbo bag sampling,2026-10-31,incomplete,"Moisture, VM, Ash",,,,,,,,,,,,,,Mohan | Volatile Matter W2 | 04-Nov-2026 18:24
@@ -297,4 +297,5 @@ T1088,Kontiki-261031-M-R,R&D Satapar Kontiki,2026-10-31,complete,,2.95,,11.38,8.
 T1089,Kontiki-261031-T-C,R&D Satapar Kontiki,2026-10-31,complete,,2.24,,11.25,9.01,9.22,5.39,5.51,83.36,85.27,,,,,Ramesh | Volatile Matter W3 | 16-Nov-2026 17:20
 T1090,Kontiki-261031-T-L,R&D Satapar Kontiki,2026-10-31,complete,,3.95,,15.88,11.94,12.43,11.12,11.57,73.0,76.0,,,,,Ramesh | Volatile Matter W3 | 16-Nov-2026 17:21
 T1091,Kontiki-261031-T-R,R&D Satapar Kontiki,2026-10-31,complete,,9.26,,20.07,10.81,11.91,7.25,7.99,72.68,80.1,,,,,Ramesh | Volatile Matter W3 | 16-Nov-2026 17:21
+T1098,Kontiki-Slider V-1-261116-T-C,R&D Satapar Kontiki Sliding Churi Experiment 1,2026-11-16,complete,,1.63,,15.46,13.83,14.06,4.83,4.91,79.71,81.03,,,,,"Girish | Moisture, Volatile Matter, Ash typed in from paper (results page) | 22-Nov-2026 18:25"
 T1099,Kontiki-Slider V-1-261116-T-L,R&D Satapar Kontiki Sliding Churi Experiment 1,2026-11-16,complete,,2.55,,16.37,13.82,14.19,7.03,7.21,76.6,78.6,,,,,"Girish | Moisture, Volatile Matter, Ash typed in from paper (results page) | 22-Nov-2026 18:23"
