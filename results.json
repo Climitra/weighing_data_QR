@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-22T18:03:37+05:30",
+ "generated": "2026-11-22T18:04:56+05:30",
  "names_updated": "2026-11-22T15:17:16+05:30",
  "limits": {
   "MC": [
@@ -41,8 +41,8 @@
  },
  "count": 298,
  "counts": {
-  "complete": 273,
-  "incomplete": 25,
+  "complete": 274,
+  "incomplete": 24,
   "not started": 0,
   "awaiting approval": 61
  },
@@ -5706,22 +5706,20 @@
    "name": "NAL/163",
    "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
    "date": "2026-10-30",
-   "status": "incomplete",
-   "pending": [
-    "ASH"
-   ],
+   "status": "complete",
+   "pending": [],
    "moisture": 1.52,
    "total_moisture": null,
    "vm_loss": 18.19,
    "vm_ar": 16.68,
    "vm_db": 16.93,
-   "ash_ar": null,
-   "ash_db": null,
-   "fc_ar": null,
-   "fc_db": null,
+   "ash_ar": 5.23,
+   "ash_db": 5.31,
+   "fc_ar": 76.58,
+   "fc_db": 77.76,
    "flags": [],
    "checks": [],
-   "last_entry": "Mohan | Volatile Matter W3 | 22-Nov-2026 17:36"
+   "last_entry": "Mohan | Ash W3 | 22-Nov-2026 18:04"
   },
   {
    "code": "T1037",
