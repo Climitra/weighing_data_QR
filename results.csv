@@ -268,9 +268,9 @@ T1030,NAL/136 R1 (29/10),Tata 500 PO dMRV · Naliya · Jumbo bag sampling · Ret
 T1032,NAL/141 R1 (29/10),Tata 500 PO dMRV · Naliya · Jumbo bag sampling · Retest 1,2026-10-29,incomplete,VM,2.12,,,,,2.88,2.94,,,,,,,"Girish | Moisture, Ash typed in from paper (by Claude) | 13-Nov-2026 14:48"
 T1033,NAL/147 R1 (29/10),Tata 500 PO dMRV · Naliya · Jumbo bag sampling · Retest 1,2026-10-29,complete,,1.81,,17.98,16.17,16.47,6.8,6.92,75.22,76.6,,,,,"Girish | Moisture, Volatile Matter, Ash typed in from paper (by Claude) | 13-Nov-2026 14:48"
 T1034,NAL/161,Tata 500 PO dMRV · Naliya · Jumbo bag sampling,2026-10-30,complete,,1.53,,18.23,16.7,16.96,7.18,7.29,74.59,75.74,,,,,"Girish | Moisture, Volatile Matter, Ash typed in from paper (by Claude) | 13-Nov-2026 14:48"
-T1036,NAL/163,Tata 500 PO dMRV · Naliya · Jumbo bag sampling,2026-10-30,incomplete,"VM, Ash",1.52,,,,,,,,,,,,,Mohan | Ash W1 | 22-Nov-2026 16:42
+T1036,NAL/163,Tata 500 PO dMRV · Naliya · Jumbo bag sampling,2026-10-30,incomplete,"VM, Ash",1.52,,,,,,,,,,,,,Mohan | Ash W2 | 22-Nov-2026 16:44
 T1037,NAL/164,Tata 500 PO dMRV · Naliya · Jumbo bag sampling,2026-10-30,complete,,2.02,,18.24,16.22,16.55,5.32,5.43,76.44,78.02,,,,,"Girish | Moisture, Volatile Matter, Ash typed in from paper (by Claude) | 13-Nov-2026 14:48"
-T1038,NAL/165,Tata 500 PO dMRV · Naliya · Jumbo bag sampling,2026-10-30,incomplete,Ash,2.45,,18.25,15.79,16.19,,,,,,,,,"Girish | Moisture, Volatile Matter typed in from paper (by Claude) | 13-Nov-2026 14:48"
+T1038,NAL/165,Tata 500 PO dMRV · Naliya · Jumbo bag sampling,2026-10-30,incomplete,Ash,2.45,,18.25,15.79,16.19,,,,,,,,,Mohan | Ash W1 | 22-Nov-2026 16:44
 T1039,NAL/166,Tata 500 PO dMRV · Naliya · Jumbo bag sampling,2026-10-30,complete,,1.64,,16.67,15.04,15.29,5.42,5.51,77.91,79.2,,,,,"Girish | Moisture, Volatile Matter, Ash typed in from paper (by Claude) | 13-Nov-2026 14:48"
 T1040,NAL/167,Tata 500 PO dMRV · Naliya · Jumbo bag sampling,2026-10-30,complete,,1.52,,16.06,14.54,14.76,5.4,5.48,78.54,79.76,,,,,"Girish | Moisture, Volatile Matter, Ash typed in from paper (by Claude) | 13-Nov-2026 14:48"
 T1041,NAL/168,Tata 500 PO dMRV · Naliya · Jumbo bag sampling,2026-10-30,incomplete,VM,2.11,,,,,4.87,4.97,,,,,,,"Girish | Moisture, Ash typed in from paper (by Claude) | 13-Nov-2026 14:48"
