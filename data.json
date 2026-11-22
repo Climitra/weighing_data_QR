@@ -360,7 +360,8 @@
   "T1088",
   "T1089",
   "T1090",
-  "T1091"
+  "T1091",
+  "T1099"
  ],
  "samples": {
   "T612": {
@@ -67136,6 +67137,170 @@
     "ASH": 1,
     "VM": 1
    }
+  },
+  "T1099": {
+   "tm": false,
+   "w": {
+    "MC": [
+     40.9436,
+     41.9451,
+     41.9196
+    ],
+    "VM": [
+     13.7096,
+     14.7108,
+     14.5469
+    ],
+    "ASH": [
+     14.041,
+     15.0472,
+     14.1117
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "pct": {},
+   "last": "Girish | Moisture, Volatile Matter, Ash typed in from paper (results page) | 22-Nov-2026 18:23",
+   "ev": [
+    {
+     "id": "1795352016624-ppjj4c-0",
+     "t": 1795352016624,
+     "by": "Girish",
+     "a": "w",
+     "k": "MC",
+     "s": 1,
+     "v": 40.9436,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "Can't understand how flow works",
+     "wb": "Ramesh",
+     "wt": 1795351860000
+    },
+    {
+     "id": "1795352016624-ppjj4c-1",
+     "t": 1795352016624,
+     "by": "Girish",
+     "a": "w",
+     "k": "MC",
+     "s": 2,
+     "v": 41.9451,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "Can't understand how flow works",
+     "wb": "Ramesh",
+     "wt": 1795351860000
+    },
+    {
+     "id": "1795352016624-ppjj4c-2",
+     "t": 1795352016624,
+     "by": "Girish",
+     "a": "w",
+     "k": "MC",
+     "s": 3,
+     "v": 41.9196,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "Can't understand how flow works",
+     "wb": "Ramesh",
+     "wt": 1795351860000
+    },
+    {
+     "id": "1795352016624-ppjj4c-3",
+     "t": 1795352016624,
+     "by": "Girish",
+     "a": "w",
+     "k": "VM",
+     "s": 1,
+     "v": 13.7096,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "Can't understand how flow works",
+     "wb": "Ramesh",
+     "wt": 1795351860000
+    },
+    {
+     "id": "1795352016624-ppjj4c-4",
+     "t": 1795352016624,
+     "by": "Girish",
+     "a": "w",
+     "k": "VM",
+     "s": 2,
+     "v": 14.7108,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "Can't understand how flow works",
+     "wb": "Ramesh",
+     "wt": 1795351860000
+    },
+    {
+     "id": "1795352016624-ppjj4c-5",
+     "t": 1795352016624,
+     "by": "Girish",
+     "a": "w",
+     "k": "VM",
+     "s": 3,
+     "v": 14.5469,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "Can't understand how flow works",
+     "wb": "Ramesh",
+     "wt": 1795351860000
+    },
+    {
+     "id": "1795352016624-ppjj4c-6",
+     "t": 1795352016624,
+     "by": "Girish",
+     "a": "w",
+     "k": "ASH",
+     "s": 1,
+     "v": 14.041,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "Can't understand how flow works",
+     "wb": "Ramesh",
+     "wt": 1795351860000
+    },
+    {
+     "id": "1795352016624-ppjj4c-7",
+     "t": 1795352016624,
+     "by": "Girish",
+     "a": "w",
+     "k": "ASH",
+     "s": 2,
+     "v": 15.0472,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "Can't understand how flow works",
+     "wb": "Ramesh",
+     "wt": 1795351860000
+    },
+    {
+     "id": "1795352016624-ppjj4c-8",
+     "t": 1795352016624,
+     "by": "Girish",
+     "a": "w",
+     "k": "ASH",
+     "s": 3,
+     "v": 14.1117,
+     "o": null,
+     "h": "",
+     "via": "paper",
+     "n": "Can't understand how flow works",
+     "wb": "Ramesh",
+     "wt": 1795351860000
+    }
+   ]
   }
  },
  "batches": {
