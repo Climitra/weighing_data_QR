@@ -2280,6 +2280,34 @@
    },
    "note": "note down from paper following protocall thts why it takes 0 minute",
    "via": "results page"
+  },
+  "T1095": {
+   "by": "Girish",
+   "at": "2026-11-22T22:40:45+05:30",
+   "flags": "Moisture 1.22 % below 1.5 %",
+   "w": {
+    "MC": [
+     41.5592,
+     42.561,
+     42.5488
+    ],
+    "VM": [
+     16.2476,
+     17.2486,
+     17.0685
+    ],
+    "ASH": [
+     13.3515,
+     14.3548,
+     13.4069
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "via": "results page"
   }
  },
  "limits": {
@@ -2304,5 +2332,5 @@
    60
   ]
  },
- "updated": "2026-11-16T17:43:22+05:30"
+ "updated": "2026-11-22T22:40:45+05:30"
 }
