@@ -57707,8 +57707,26 @@
      "via": "paper",
      "n": "typed in by Claude from Girish's handwritten sheet (T1025-T1034 dated 07-11-2026; time of day not written)",
      "wt": 1794033000000
+    },
+    {
+     "id": "1795346677608-41aa0",
+     "t": 1795346677608,
+     "by": "Mohan",
+     "a": "hold",
+     "k": "VM",
+     "h": "VM W2-17-1",
+     "b": 2
     }
-   ]
+   ],
+   "h": {
+    "VM": "VM W2-17-1"
+   },
+   "ha": {
+    "VM": 1795346677608
+   },
+   "hb": {
+    "VM": 2
+   }
   },
   "T1031": {
    "tm": false,
