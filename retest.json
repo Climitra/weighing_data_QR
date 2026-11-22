@@ -1,7 +1,7 @@
 {
  "app": "proximate-retest",
  "version": 1,
- "generated": "2026-11-22T22:41:49+05:30",
+ "generated": "2026-11-22T22:42:05+05:30",
  "limits": {
   "MC": [
    1.5,
@@ -30,10 +30,10 @@
   "FC"
  ],
  "rule": "moisture, VM (db), ash (db), fixed carbon (db) or total moisture above the upper limit, below the lower limit, or negative, and not approved",
- "count": 63,
+ "count": 62,
  "by_test": {
   "MC": 14,
-  "VM": 30,
+  "VM": 29,
   "ASH": 28,
   "FC": 31,
   "TM": 0
@@ -1275,25 +1275,6 @@
    "moisture": 1.93,
    "vm_ar": 21.39,
    "ash_ar": 9.29,
-   "total_moisture": null,
-   "approval_outdated": false
-  },
-  {
-   "code": "T1093",
-   "name": "Kontiki-Slider V-1-261116-B-L",
-   "supplier": "R&D Satapar Kontiki Sliding Churi Experiment 1",
-   "date": "2026-11-16",
-   "status": "complete",
-   "flags": [
-    "VM 20.96 % db above 17.5 % db"
-   ],
-   "checks": [],
-   "retest": [
-    "VM"
-   ],
-   "moisture": 2.59,
-   "vm_ar": 20.42,
-   "ash_ar": 6.37,
    "total_moisture": null,
    "approval_outdated": false
   },
