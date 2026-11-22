@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-22T18:04:56+05:30",
+ "generated": "2026-11-22T18:05:22+05:30",
  "names_updated": "2026-11-22T15:17:16+05:30",
  "limits": {
   "MC": [
@@ -41,8 +41,8 @@
  },
  "count": 298,
  "counts": {
-  "complete": 274,
-  "incomplete": 24,
+  "complete": 275,
+  "incomplete": 23,
   "not started": 0,
   "awaiting approval": 61
  },
@@ -5746,22 +5746,20 @@
    "name": "NAL/165",
    "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling",
    "date": "2026-10-30",
-   "status": "incomplete",
-   "pending": [
-    "ASH"
-   ],
+   "status": "complete",
+   "pending": [],
    "moisture": 2.45,
    "total_moisture": null,
    "vm_loss": 18.25,
    "vm_ar": 15.79,
    "vm_db": 16.19,
-   "ash_ar": null,
-   "ash_db": null,
-   "fc_ar": null,
-   "fc_db": null,
+   "ash_ar": 10.5,
+   "ash_db": 10.77,
+   "fc_ar": 71.25,
+   "fc_db": 73.04,
    "flags": [],
    "checks": [],
-   "last_entry": "Mohan | Ash W2 | 22-Nov-2026 16:45"
+   "last_entry": "Mohan | Ash W3 | 22-Nov-2026 18:05"
   },
   {
    "code": "T1039",
