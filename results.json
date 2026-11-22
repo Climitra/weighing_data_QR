@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-22T18:46:33+05:30",
+ "generated": "2026-11-22T18:51:00+05:30",
  "names_updated": "2026-11-22T15:17:16+05:30",
  "limits": {
   "MC": [
@@ -44,7 +44,7 @@
   "complete": 281,
   "incomplete": 19,
   "not started": 0,
-  "awaiting approval": 63
+  "awaiting approval": 64
  },
  "results": [
   {
@@ -7071,6 +7071,17 @@
    "status": "complete",
    "flags": [
     "VM 19.78 % db above 17.5 % db"
+   ],
+   "checks": []
+  },
+  {
+   "code": "T1095",
+   "name": "Kontiki-Slider V-1-261116-M-C",
+   "supplier": "R&D Satapar Kontiki Sliding Churi Experiment 1",
+   "date": "2026-11-16",
+   "status": "complete",
+   "flags": [
+    "MC 1.22 % below 1.5 %"
    ],
    "checks": []
   },
