@@ -49811,7 +49811,7 @@
    "tm": false,
    "w": {
     "MC": [
-     null,
+     39.8193,
      null,
      null
     ],
@@ -49832,7 +49832,7 @@
     ]
    },
    "pct": {},
-   "last": "Mohan | Volatile Matter W3 | 04-Nov-2026 18:34",
+   "last": "Mohan | Moisture W1 | 22-Nov-2026 16:29",
    "ev": [
     {
      "id": "1793793483410-u1g9t",
@@ -49885,6 +49885,18 @@
      "by": "Mohan",
      "a": "hold",
      "k": "MC",
+     "h": "DISH 17",
+     "b": 2
+    },
+    {
+     "id": "1795345157070-v2iqb",
+     "t": 1795345157070,
+     "by": "Mohan",
+     "a": "w",
+     "k": "MC",
+     "s": 1,
+     "v": 39.8193,
+     "o": null,
      "h": "DISH 17",
      "b": 2
     }
