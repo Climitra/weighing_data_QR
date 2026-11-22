@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-22T18:26:19+05:30",
+ "generated": "2026-11-22T18:27:21+05:30",
  "names_updated": "2026-11-22T15:17:16+05:30",
  "limits": {
   "MC": [
@@ -41,8 +41,8 @@
  },
  "count": 300,
  "counts": {
-  "complete": 278,
-  "incomplete": 22,
+  "complete": 279,
+  "incomplete": 21,
   "not started": 0,
   "awaiting approval": 61
  },
@@ -5562,22 +5562,20 @@
    "name": "NAL/81 R1 (29/10)",
    "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling · Retest 1",
    "date": "2026-10-29",
-   "status": "incomplete",
-   "pending": [
-    "MC"
-   ],
-   "moisture": null,
+   "status": "complete",
+   "pending": [],
+   "moisture": 2.07,
    "total_moisture": null,
    "vm_loss": 17.22,
-   "vm_ar": null,
-   "vm_db": null,
+   "vm_ar": 15.16,
+   "vm_db": 15.48,
    "ash_ar": 3.24,
-   "ash_db": null,
-   "fc_ar": null,
-   "fc_db": null,
+   "ash_db": 3.31,
+   "fc_ar": 79.54,
+   "fc_db": 81.22,
    "flags": [],
    "checks": [],
-   "last_entry": "Mohan | Moisture W2 | 22-Nov-2026 16:32"
+   "last_entry": "Mohan | Moisture W3 | 22-Nov-2026 18:27"
   },
   {
    "code": "T1027",
