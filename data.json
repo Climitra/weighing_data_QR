@@ -56694,7 +56694,7 @@
    "tm": false,
    "w": {
     "MC": [
-     null,
+     41.7459,
      null,
      null
     ],
@@ -56715,7 +56715,7 @@
     ]
    },
    "pct": {},
-   "last": "Girish | Volatile Matter, Ash typed in from paper (by Claude) | 13-Nov-2026 14:48",
+   "last": "Mohan | Moisture W1 | 22-Nov-2026 16:31",
    "ev": [
     {
      "id": "1794561518473-ppqyrc-0",
@@ -56807,6 +56807,18 @@
      "by": "Mohan",
      "a": "hold",
      "k": "MC",
+     "h": "DISH 14",
+     "b": 2
+    },
+    {
+     "id": "1795345293486-q3z8k",
+     "t": 1795345293486,
+     "by": "Mohan",
+     "a": "w",
+     "k": "MC",
+     "s": 1,
+     "v": 41.7459,
+     "o": null,
      "h": "DISH 14",
      "b": 2
     }
