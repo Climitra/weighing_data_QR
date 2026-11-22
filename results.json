@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-22T17:34:26+05:30",
+ "generated": "2026-11-22T17:35:04+05:30",
  "names_updated": "2026-11-22T15:17:16+05:30",
  "limits": {
   "MC": [
@@ -39,12 +39,12 @@
   "ash_db": "ash_ar / (100 - moisture) * 100",
   "fc": "100 minus the others, by difference"
  },
- "count": 299,
+ "count": 298,
  "counts": {
   "complete": 271,
-  "incomplete": 28,
+  "incomplete": 27,
   "not started": 0,
-  "awaiting approval": 60
+  "awaiting approval": 61
  },
  "results": [
   {
@@ -5667,28 +5667,6 @@
    "last_entry": "Mohan | Volatile Matter W3 | 22-Nov-2026 17:34"
   },
   {
-   "code": "T1032",
-   "name": "NAL/141 R1 (29/10)",
-   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling · Retest 1",
-   "date": "2026-10-29",
-   "status": "incomplete",
-   "pending": [
-    "VM"
-   ],
-   "moisture": 2.12,
-   "total_moisture": null,
-   "vm_loss": null,
-   "vm_ar": null,
-   "vm_db": null,
-   "ash_ar": 2.88,
-   "ash_db": 2.94,
-   "fc_ar": null,
-   "fc_db": null,
-   "flags": [],
-   "checks": [],
-   "last_entry": "Mohan | Volatile Matter W2 | 22-Nov-2026 17:00"
-  },
-  {
    "code": "T1033",
    "name": "NAL/147 R1 (29/10)",
    "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling · Retest 1",
@@ -6844,6 +6822,17 @@
    "status": "complete",
    "flags": [
     "MC 1.25 % below 1.5 %"
+   ],
+   "checks": []
+  },
+  {
+   "code": "T1032",
+   "name": "NAL/141 R1 (29/10)",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-29",
+   "status": "complete",
+   "flags": [
+    "VM 17.89 % db above 17.5 % db"
    ],
    "checks": []
   },
