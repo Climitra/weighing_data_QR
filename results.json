@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-23T16:37:15+05:30",
+ "generated": "2026-11-23T16:41:04+05:30",
  "names_updated": "2026-11-22T15:17:16+05:30",
  "limits": {
   "MC": [
@@ -39,12 +39,12 @@
   "ash_db": "ash_ar / (100 - moisture) * 100",
   "fc": "100 minus the others, by difference"
  },
- "count": 310,
+ "count": 309,
  "counts": {
   "complete": 291,
-  "incomplete": 18,
+  "incomplete": 17,
   "not started": 1,
-  "awaiting approval": 65
+  "awaiting approval": 66
  },
  "results": [
   {
@@ -5936,28 +5936,6 @@
    "last_entry": "Deepak Pandey | Ash typed in from paper (results page) | 14-Nov-2026 19:39"
   },
   {
-   "code": "T1066",
-   "name": "GorChuri11",
-   "supplier": "Climitra Lab Portal",
-   "date": "2026-11-05",
-   "status": "incomplete",
-   "pending": [
-    "MC"
-   ],
-   "moisture": null,
-   "total_moisture": null,
-   "vm_loss": 29.25,
-   "vm_ar": null,
-   "vm_db": null,
-   "ash_ar": 31.27,
-   "ash_db": null,
-   "fc_ar": null,
-   "fc_db": null,
-   "flags": [],
-   "checks": [],
-   "last_entry": "Ramesh | Ash W3 | 23-Nov-2026 16:36"
-  },
-  {
    "code": "T1073",
    "name": "K7-261024-P02-U",
    "supplier": "R&D Satapar K7 Experiment 1",
@@ -7200,6 +7178,19 @@
    "status": "incomplete",
    "flags": [
     "ASH 34.87 % db above 12 % db"
+   ],
+   "checks": []
+  },
+  {
+   "code": "T1066",
+   "name": "GorChuri11",
+   "supplier": "Climitra Lab Portal",
+   "date": "2026-11-05",
+   "status": "complete",
+   "flags": [
+    "VM 26.33 % db above 17.5 % db",
+    "ASH 32.56 % db above 12 % db",
+    "FC 41.11 % db below 72 % db"
    ],
    "checks": []
   },
