@@ -15249,7 +15249,7 @@
    "tm": false,
    "w": {
     "MC": [
-     null,
+     39.2935,
      null,
      null
     ],
@@ -15270,7 +15270,7 @@
     ]
    },
    "pct": {},
-   "last": "Girish | Ash typed in from paper (by Claude) | 13-Nov-2026 14:51",
+   "last": "Ramesh | Moisture W1 | 23-Nov-2026 14:14",
    "ev": [
     {
      "id": "1793168242803-9slcr",
@@ -15503,6 +15503,18 @@
      "via": "paper",
      "n": "retest, typed in by Claude from Girish's handwritten sheet dated 11-11-2026 (time of day not written)",
      "wt": 1794378600000
+    },
+    {
+     "id": "1795423472194-fq80u",
+     "t": 1795423472194,
+     "by": "Ramesh",
+     "a": "w",
+     "k": "MC",
+     "s": 1,
+     "v": 39.2935,
+     "o": null,
+     "h": "DISH 25",
+     "b": 1
     }
    ],
    "h": {
