@@ -12612,6 +12612,37 @@
     }
    },
    "via": "results page"
+  },
+  {
+   "id": "1795407597313-rsfgyl",
+   "at": "2026-11-23T09:49:57+05:30",
+   "by": "Girish",
+   "action": "reset",
+   "code": "T1066",
+   "test": "Ash",
+   "key": "ASH",
+   "step": null,
+   "old": [
+    14.4135,
+    15.4193,
+    null
+   ],
+   "new": [
+    null,
+    null,
+    null
+   ],
+   "saved": {
+    "W1": {
+     "at": "2026-11-13T16:53:56+05:30",
+     "by": "Mohan"
+    },
+    "W2": {
+     "at": "2026-11-13T16:55:40+05:30",
+     "by": "Mohan"
+    }
+   },
+   "via": "results page"
   }
  ]
 }
