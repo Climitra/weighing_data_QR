@@ -50468,16 +50468,28 @@
      "via": "paper",
      "n": "retest, typed in by Claude from Girish's handwritten sheet dated 11-11-2026 (time of day not written)",
      "wt": 1794378600000
+    },
+    {
+     "id": "1795425485355-bi2tr",
+     "t": 1795425485356,
+     "by": "Mohan",
+     "a": "hold",
+     "k": "MC",
+     "h": "DISH 22",
+     "b": 1
     }
    ],
    "h": {
-    "VM": "VM W2-15-5"
+    "VM": "VM W2-15-5",
+    "MC": "DISH 22"
    },
    "ha": {
-    "VM": 1794079668240
+    "VM": 1794079668240,
+    "MC": 1795425485356
    },
    "hb": {
-    "VM": 2
+    "VM": 2,
+    "MC": 1
    }
   },
   "T954": {
