@@ -69267,6 +69267,17 @@
    "start": 1795411180973,
    "mins": 60,
    "by": "Supervisor (timer)"
+  },
+  "2026-11-23-O1-mwstpoof": {
+   "rid": "2026-11-23-O1-mwstpoof",
+   "place": "O1",
+   "test": "MC",
+   "tray": null,
+   "items": [],
+   "bal": 1,
+   "start": 1795411605039,
+   "mins": 60,
+   "by": "Supervisor (timer)"
   }
  },
  "settings": {
