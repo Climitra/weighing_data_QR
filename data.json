@@ -70559,6 +70559,28 @@
    "start": 1795427164743,
    "mins": 60,
    "by": "Supervisor (timer)"
+  },
+  "2026-11-23-O2-mwt38zx7": {
+   "rid": "2026-11-23-O2-mwt38zx7",
+   "place": "O2",
+   "test": "MC",
+   "tray": null,
+   "items": [
+    {
+     "h": "DISH 22",
+     "code": "T953",
+     "w2": 44.9563
+    },
+    {
+     "h": "DISH 8",
+     "code": "T1066",
+     "w2": 39.9399
+    }
+   ],
+   "bal": 1,
+   "start": 1795427622619,
+   "mins": 60,
+   "by": "Supervisor (timer)"
   }
  },
  "settings": {
