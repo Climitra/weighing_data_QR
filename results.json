@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-23T15:14:13+05:30",
+ "generated": "2026-11-23T15:15:10+05:30",
  "names_updated": "2026-11-22T15:17:16+05:30",
  "limits": {
   "MC": [
@@ -5351,7 +5351,7 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "Mohan | Moisture W2 | 23-Nov-2026 14:50"
+   "last_entry": "Mohan | Ash W1 | 23-Nov-2026 15:14"
   },
   {
    "code": "T954",
