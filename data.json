@@ -71900,7 +71900,7 @@
   },
   "MC B261123-3": {
    "test": "MC",
-   "bal": 0,
+   "bal": 1,
    "batch": 3,
    "bid": "B261123-3",
    "day": "2026-11-23",
@@ -71911,11 +71911,13 @@
     "T953"
    ],
    "at": 1795409681518,
-   "by": "labels page"
+   "by": "labels page",
+   "claimAt": 1795425428738,
+   "claimBy": "Mohan"
   },
   "ASH B261123-3": {
    "test": "ASH",
-   "bal": 0,
+   "bal": 1,
    "batch": 3,
    "bid": "B261123-3",
    "day": "2026-11-23",
@@ -71932,7 +71934,9 @@
     "T953"
    ],
    "at": 1795409681518,
-   "by": "labels page"
+   "by": "labels page",
+   "claimAt": 1795425428738,
+   "claimBy": "Mohan"
   }
  },
  "cardsDeleted": {
