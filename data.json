@@ -70778,7 +70778,9 @@
    "bal": 1,
    "start": 1795427164743,
    "mins": 60,
-   "by": "Supervisor (timer)"
+   "by": "Supervisor (timer)",
+   "outAt": 1795431722301,
+   "outBy": "Supervisor (timer)"
   },
   "2026-11-23-O2-mwt38zx7": {
    "rid": "2026-11-23-O2-mwt38zx7",
