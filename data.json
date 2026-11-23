@@ -62289,8 +62289,8 @@
      13.7545
     ],
     "ASH": [
-     14.4135,
-     15.4193,
+     null,
+     null,
      null
     ],
     "TM": [
@@ -62300,7 +62300,7 @@
     ]
    },
    "pct": {},
-   "last": "Deepak Pandey | Moisture reset (results page) | 14-Nov-2026 09:27",
+   "last": "Girish | Ash reset (results page) | 23-Nov-2026 09:49",
    "ev": [
     {
      "id": "1794565241402-0woaw",
@@ -62449,6 +62449,20 @@
       42.6527
      ],
      "h": "DISH 20",
+     "via": "results"
+    },
+    {
+     "id": "1795407597313-rsfgyl",
+     "t": 1795407597313,
+     "by": "Girish",
+     "a": "reset",
+     "k": "ASH",
+     "o": [
+      14.4135,
+      15.4193,
+      null
+     ],
+     "h": "ASH W1-27-3",
      "via": "results"
     }
    ],
