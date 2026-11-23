@@ -14954,7 +14954,7 @@
    "tm": false,
    "w": {
     "MC": [
-     null,
+     42.3837,
      null,
      null
     ],
@@ -14975,7 +14975,7 @@
     ]
    },
    "pct": {},
-   "last": "Girish | Moisture reset (results page) | 07-Nov-2026 22:08",
+   "last": "Ramesh | Moisture W1 | 23-Nov-2026 14:12",
    "ev": [
     {
      "id": "1793168082105-llmeg",
@@ -15202,6 +15202,18 @@
      "k": "MC",
      "h": "DISH 5",
      "o": "DISH 24",
+     "b": 1
+    },
+    {
+     "id": "1795423364553-78oou",
+     "t": 1795423364553,
+     "by": "Ramesh",
+     "a": "w",
+     "k": "MC",
+     "s": 1,
+     "v": 42.3837,
+     "o": null,
+     "h": "DISH 5",
      "b": 1
     }
    ],
