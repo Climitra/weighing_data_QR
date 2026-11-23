@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-23T17:19:51+05:30",
+ "generated": "2026-11-23T17:20:05+05:30",
  "names_updated": "2026-11-22T15:17:16+05:30",
  "limits": {
   "MC": [
@@ -41,8 +41,8 @@
  },
  "count": 309,
  "counts": {
-  "complete": 299,
-  "incomplete": 9,
+  "complete": 300,
+  "incomplete": 8,
   "not started": 1,
   "awaiting approval": 66
  },
@@ -6042,22 +6042,20 @@
    "name": "K7-261024-P11",
    "supplier": "R&D Satapar K7 Experiment 1",
    "date": "2026-11-04",
-   "status": "incomplete",
-   "pending": [
-    "VM"
-   ],
+   "status": "complete",
+   "pending": [],
    "moisture": 3.33,
    "total_moisture": null,
-   "vm_loss": null,
-   "vm_ar": null,
-   "vm_db": null,
+   "vm_loss": 19.32,
+   "vm_ar": 15.99,
+   "vm_db": 16.54,
    "ash_ar": 4.17,
    "ash_db": 4.31,
-   "fc_ar": null,
-   "fc_db": null,
+   "fc_ar": 76.52,
+   "fc_db": 79.15,
    "flags": [],
    "checks": [],
-   "last_entry": "Ramesh | Volatile Matter W2 | 23-Nov-2026 15:54"
+   "last_entry": "Ramesh | Volatile Matter W3 | 23-Nov-2026 17:19"
   },
   {
    "code": "T1083",
