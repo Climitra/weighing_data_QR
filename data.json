@@ -60326,8 +60326,8 @@
      17.4156
     ],
     "ASH": [
-     11.9264,
-     12.9267,
+     null,
+     null,
      null
     ],
     "TM": [
@@ -60337,7 +60337,7 @@
     ]
    },
    "pct": {},
-   "last": "Mohan | Moisture W3 | 13-Nov-2026 17:58",
+   "last": "Girish | Ash reset (results page) | 23-Nov-2026 09:48",
    "ev": [
     {
      "id": "1794564442700-ieckr",
@@ -60509,6 +60509,20 @@
      "o": null,
      "h": "DISH 8",
      "b": 1
+    },
+    {
+     "id": "1795407508676-rslhjo",
+     "t": 1795407508676,
+     "by": "Girish",
+     "a": "reset",
+     "k": "ASH",
+     "o": [
+      11.9264,
+      12.9267,
+      null
+     ],
+     "h": "ASH W1-27-3",
+     "via": "results"
     }
    ],
    "h": {
