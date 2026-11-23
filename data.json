@@ -50337,7 +50337,7 @@
    "tm": false,
    "w": {
     "MC": [
-     null,
+     43.9527,
      null,
      null
     ],
@@ -50358,7 +50358,7 @@
     ]
    },
    "pct": {},
-   "last": "Girish | Volatile Matter typed in from paper (by Claude) | 13-Nov-2026 14:51",
+   "last": "Mohan | Moisture W1 | 23-Nov-2026 14:49",
    "ev": [
     {
      "id": "1793793641231-7z8yp",
@@ -50475,6 +50475,18 @@
      "by": "Mohan",
      "a": "hold",
      "k": "MC",
+     "h": "DISH 22",
+     "b": 1
+    },
+    {
+     "id": "1795425544376-cm59u",
+     "t": 1795425544376,
+     "by": "Mohan",
+     "a": "w",
+     "k": "MC",
+     "s": 1,
+     "v": 43.9527,
+     "o": null,
      "h": "DISH 22",
      "b": 1
     }
