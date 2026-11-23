@@ -12942,6 +12942,54 @@
    "via": "results page, paper sheet",
    "weighedBy": "Ramesh",
    "weighedAt": "2026-11-23T23:58:00+05:30"
+  },
+  {
+   "id": "1795458580837-pp2d79-0",
+   "at": "2026-11-23T23:59:40+05:30",
+   "by": "Girish",
+   "action": "paper",
+   "code": "T1104",
+   "test": "Moisture",
+   "key": "MC",
+   "step": 1,
+   "old": null,
+   "new": 42.8288,
+   "saved": null,
+   "via": "results page, paper sheet",
+   "weighedBy": "Ramesh",
+   "weighedAt": "2026-11-23T23:59:00+05:30"
+  },
+  {
+   "id": "1795458580837-pp2d79-1",
+   "at": "2026-11-23T23:59:40+05:30",
+   "by": "Girish",
+   "action": "paper",
+   "code": "T1104",
+   "test": "Moisture",
+   "key": "MC",
+   "step": 2,
+   "old": null,
+   "new": 43.8291,
+   "saved": null,
+   "via": "results page, paper sheet",
+   "weighedBy": "Ramesh",
+   "weighedAt": "2026-11-23T23:59:00+05:30"
+  },
+  {
+   "id": "1795458580837-pp2d79-2",
+   "at": "2026-11-23T23:59:40+05:30",
+   "by": "Girish",
+   "action": "paper",
+   "code": "T1104",
+   "test": "Moisture",
+   "key": "MC",
+   "step": 3,
+   "old": null,
+   "new": 43.8153,
+   "saved": null,
+   "via": "results page, paper sheet",
+   "weighedBy": "Ramesh",
+   "weighedAt": "2026-11-23T23:59:00+05:30"
   }
  ]
 }
