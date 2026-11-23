@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-23T11:53:26+05:30",
+ "generated": "2026-11-23T11:53:46+05:30",
  "names_updated": "2026-11-22T15:17:16+05:30",
  "limits": {
   "MC": [
@@ -6541,12 +6541,11 @@
    "status": "incomplete",
    "pending": [
     "MC",
-    "VM",
     "ASH"
    ],
    "moisture": null,
    "total_moisture": null,
-   "vm_loss": null,
+   "vm_loss": 9.96,
    "vm_ar": null,
    "vm_db": null,
    "ash_ar": null,
@@ -6555,7 +6554,7 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "Ramesh | Volatile Matter W2 | 23-Nov-2026 11:10"
+   "last_entry": "Ramesh | Volatile Matter W3 | 23-Nov-2026 11:53"
   },
   {
    "code": "T1105",
