@@ -1,7 +1,7 @@
 {
  "app": "proximate-retest",
  "version": 1,
- "generated": "2026-11-23T16:50:41+05:30",
+ "generated": "2026-11-23T17:19:51+05:30",
  "limits": {
   "MC": [
    1.5,
@@ -35,7 +35,7 @@
   "MC": 14,
   "VM": 32,
   "ASH": 32,
-  "FC": 35,
+  "FC": 36,
   "TM": 0
  },
  "samples": [
@@ -1133,16 +1133,18 @@
    "name": "GorChuri10",
    "supplier": "Climitra Lab Portal",
    "date": "2026-11-05",
-   "status": "incomplete",
+   "status": "complete",
    "flags": [
-    "ASH 34.87 % db above 12 % db"
+    "ASH 34.87 % db above 12 % db",
+    "FC 48.90 % db below 72 % db"
    ],
    "checks": [],
    "retest": [
-    "ASH"
+    "ASH",
+    "FC"
    ],
    "moisture": 4.47,
-   "vm_ar": null,
+   "vm_ar": 15.49,
    "ash_ar": 33.31,
    "total_moisture": null,
    "approval_outdated": false
