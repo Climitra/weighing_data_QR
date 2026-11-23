@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-23T09:50:11+05:30",
+ "generated": "2026-11-23T10:04:26+05:30",
  "names_updated": "2026-11-22T15:17:16+05:30",
  "limits": {
   "MC": [
@@ -39,12 +39,12 @@
   "ash_db": "ash_ar / (100 - moisture) * 100",
   "fc": "100 minus the others, by difference"
  },
- "count": 306,
+ "count": 305,
  "counts": {
   "complete": 287,
-  "incomplete": 18,
+  "incomplete": 17,
   "not started": 1,
-  "awaiting approval": 63
+  "awaiting approval": 64
  },
  "results": [
   {
@@ -5946,32 +5946,6 @@
    "last_entry": "Deepak Pandey | Ash typed in from paper (results page) | 14-Nov-2026 19:28"
   },
   {
-   "code": "T1060",
-   "name": "gorchuri5",
-   "supplier": "Climitra Lab Portal",
-   "date": "2026-11-05",
-   "status": "incomplete",
-   "pending": [
-    "ASH"
-   ],
-   "moisture": 3.6,
-   "total_moisture": null,
-   "vm_loss": 20.6,
-   "vm_ar": 17.01,
-   "vm_db": 17.64,
-   "ash_ar": null,
-   "ash_db": null,
-   "fc_ar": null,
-   "fc_db": null,
-   "flags": [
-    "VM 17.63 % db above 17.5 % db"
-   ],
-   "checks": [],
-   "last_entry": "Mohan | Moisture W3 | 13-Nov-2026 17:59",
-   "approved_by": "Deepak Pandey",
-   "approved_at": "2026-11-14T09:25:08+05:30"
-  },
-  {
    "code": "T1064",
    "name": "GorChuri9",
    "supplier": "Climitra Lab Portal",
@@ -7051,6 +7025,17 @@
    "flags": [
     "ASH 20.65 % db above 12 % db",
     "FC 62.11 % db below 72 % db"
+   ],
+   "checks": []
+  },
+  {
+   "code": "T1060",
+   "name": "gorchuri5",
+   "supplier": "Climitra Lab Portal",
+   "date": "2026-11-05",
+   "status": "incomplete",
+   "flags": [
+    "VM 17.63 % db above 17.5 % db"
    ],
    "checks": []
   },
