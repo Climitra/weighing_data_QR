@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-23T17:20:05+05:30",
+ "generated": "2026-11-23T23:51:52+05:30",
  "names_updated": "2026-11-22T15:17:16+05:30",
  "limits": {
   "MC": [
@@ -41,8 +41,8 @@
  },
  "count": 309,
  "counts": {
-  "complete": 300,
-  "incomplete": 8,
+  "complete": 301,
+  "incomplete": 7,
   "not started": 1,
   "awaiting approval": 66
  },
@@ -6396,22 +6396,20 @@
    "name": "Adam retort-261115-P01",
    "supplier": "R&D Satapar Adam retort",
    "date": "2026-11-15",
-   "status": "incomplete",
-   "pending": [
-    "MC"
-   ],
-   "moisture": null,
+   "status": "complete",
+   "pending": [],
+   "moisture": 6.62,
    "total_moisture": null,
    "vm_loss": 13.1,
-   "vm_ar": null,
-   "vm_db": null,
+   "vm_ar": 6.48,
+   "vm_db": 6.94,
    "ash_ar": 5.35,
-   "ash_db": null,
-   "fc_ar": null,
-   "fc_db": null,
+   "ash_db": 5.73,
+   "fc_ar": 81.55,
+   "fc_db": 87.34,
    "flags": [],
    "checks": [],
-   "last_entry": "Ramesh | Ash W3 | 23-Nov-2026 12:01"
+   "last_entry": "Girish | Moisture typed in from paper (results page) | 23-Nov-2026 23:51"
   },
   {
    "code": "T1102",
