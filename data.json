@@ -70511,7 +70511,9 @@
    "bal": 1,
    "start": 1795424170214,
    "mins": 60,
-   "by": "Supervisor (timer)"
+   "by": "Supervisor (timer)",
+   "outAt": 1795427774168,
+   "outBy": "Supervisor (timer)"
   },
   "2026-11-23-F1-mwt2z6mf": {
    "rid": "2026-11-23-F1-mwt2z6mf",
