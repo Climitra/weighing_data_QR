@@ -49631,7 +49631,7 @@
      17.2501
     ],
     "ASH": [
-     null,
+     11.5815,
      null,
      null
     ],
@@ -49642,7 +49642,7 @@
     ]
    },
    "pct": {},
-   "last": "Girish | Volatile Matter typed in from paper (by Claude) | 13-Nov-2026 14:51",
+   "last": "Mohan | Ash W1 | 23-Nov-2026 15:12",
    "ev": [
     {
      "id": "1793787957839-wzfi6",
@@ -49796,6 +49796,18 @@
      "by": "Mohan",
      "a": "hold",
      "k": "ASH",
+     "h": "ASH B261123-3-7",
+     "b": 1
+    },
+    {
+     "id": "1795426955516-jo8th",
+     "t": 1795426955516,
+     "by": "Mohan",
+     "a": "w",
+     "k": "ASH",
+     "s": 1,
+     "v": 11.5815,
+     "o": null,
      "h": "ASH B261123-3-7",
      "b": 1
     }
