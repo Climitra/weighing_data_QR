@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-23T10:37:17+05:30",
+ "generated": "2026-11-23T10:37:51+05:30",
  "names_updated": "2026-11-22T15:17:16+05:30",
  "limits": {
   "MC": [
@@ -42,8 +42,8 @@
  "count": 308,
  "counts": {
   "complete": 287,
-  "incomplete": 17,
-  "not started": 4,
+  "incomplete": 18,
+  "not started": 3,
   "awaiting approval": 64
  },
  "results": [
@@ -6517,7 +6517,7 @@
    "name": "Adam retort-261115-P03",
    "supplier": "R&D Satapar Adam retort",
    "date": "2026-11-15",
-   "status": "not started",
+   "status": "incomplete",
    "pending": [
     "MC",
     "VM",
@@ -6534,7 +6534,7 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": ""
+   "last_entry": "Ramesh | Ash W1 | 23-Nov-2026 10:37"
   }
  ],
  "awaiting_approval": [
