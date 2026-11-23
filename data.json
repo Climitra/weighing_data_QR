@@ -62571,7 +62571,7 @@
    "tm": false,
    "w": {
     "MC": [
-     null,
+     38.937,
      null,
      null
     ],
@@ -62592,7 +62592,7 @@
     ]
    },
    "pct": {},
-   "last": "Girish | Ash reset (results page) | 23-Nov-2026 09:49",
+   "last": "Ramesh | Moisture W1 | 23-Nov-2026 14:40",
    "ev": [
     {
      "id": "1794565241402-0woaw",
@@ -62765,6 +62765,18 @@
      "k": "MC",
      "h": "DISH 8",
      "o": "DISH 20",
+     "b": 1
+    },
+    {
+     "id": "1795425010274-hvcrc",
+     "t": 1795425010274,
+     "by": "Ramesh",
+     "a": "w",
+     "k": "MC",
+     "s": 1,
+     "v": 38.937,
+     "o": null,
+     "h": "DISH 8",
      "b": 1
     }
    ],
