@@ -1,4 +1,7 @@
 ﻿Changed at,Changed by,Action,Code,Sample name,Test,Weight,Old value (g),New value (g),Old result %,Old value saved by,Old value saved at,Restore of entry,Entry id
+23-Nov-2026 23:51,Girish,paper,T1101,Adam retort-261115-P01,Moisture,W3,,45.5987,,,,,1795458093287-ppks4t-2
+23-Nov-2026 23:51,Girish,paper,T1101,Adam retort-261115-P01,Moisture,W2,,45.665,,,,,1795458093287-ppks4t-1
+23-Nov-2026 23:51,Girish,paper,T1101,Adam retort-261115-P01,Moisture,W1,,44.664,,,,,1795458093287-ppks4t-0
 23-Nov-2026 10:19,Girish,reset,T955,CH2/118,Volatile Matter,W1,13.8905,,,Mohan,04-Nov-2026 18:25,,1795409368724-rszl0x
 23-Nov-2026 10:19,Girish,reset,T955,CH2/118,Volatile Matter,W2,14.893,,,Mohan,04-Nov-2026 18:26,,1795409368724-rszl0x
 23-Nov-2026 10:18,Girish,reset,T954,CH2/117,Volatile Matter,W1,13.8306,,,Mohan,04-Nov-2026 18:23,,1795409331680-rsn07g
