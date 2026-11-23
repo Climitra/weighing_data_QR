@@ -17485,6 +17485,26 @@
     "at": "2026-11-23T11:53:59+05:30",
     "by": "Ramesh"
    }
+  },
+  "Moisture": {
+   "W1": {
+    "at": "2026-11-24T00:09:00+05:30",
+    "by": "Ramesh",
+    "via": "paper",
+    "entered": "Girish"
+   },
+   "W2": {
+    "at": "2026-11-24T00:09:00+05:30",
+    "by": "Ramesh",
+    "via": "paper",
+    "entered": "Girish"
+   },
+   "W3": {
+    "at": "2026-11-24T00:09:00+05:30",
+    "by": "Ramesh",
+    "via": "paper",
+    "entered": "Girish"
+   }
   }
  },
  "T954": {
