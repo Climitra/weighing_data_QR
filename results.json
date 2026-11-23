@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-23T16:36:38+05:30",
+ "generated": "2026-11-23T16:37:15+05:30",
  "names_updated": "2026-11-22T15:17:16+05:30",
  "limits": {
   "MC": [
@@ -5942,21 +5942,20 @@
    "date": "2026-11-05",
    "status": "incomplete",
    "pending": [
-    "MC",
-    "ASH"
+    "MC"
    ],
    "moisture": null,
    "total_moisture": null,
    "vm_loss": 29.25,
    "vm_ar": null,
    "vm_db": null,
-   "ash_ar": null,
+   "ash_ar": 31.27,
    "ash_db": null,
    "fc_ar": null,
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "Ramesh | Ash W2 | 23-Nov-2026 15:04"
+   "last_entry": "Ramesh | Ash W3 | 23-Nov-2026 16:36"
   },
   {
    "code": "T1073",
