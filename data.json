@@ -50503,7 +50503,7 @@
    "tm": false,
    "w": {
     "MC": [
-     null,
+     40.6203,
      null,
      null
     ],
@@ -50524,7 +50524,7 @@
     ]
    },
    "pct": {},
-   "last": "Girish | Volatile Matter reset (results page) | 23-Nov-2026 10:19",
+   "last": "Ramesh | Moisture W1 | 23-Nov-2026 14:19",
    "ev": [
     {
      "id": "1793796896094-9yob1",
@@ -50579,6 +50579,18 @@
      "by": "Ramesh",
      "a": "hold",
      "k": "MC",
+     "h": "DISH 20",
+     "b": 1
+    },
+    {
+     "id": "1795423790548-r7ys6",
+     "t": 1795423790548,
+     "by": "Ramesh",
+     "a": "w",
+     "k": "MC",
+     "s": 1,
+     "v": 40.6203,
+     "o": null,
      "h": "DISH 20",
      "b": 1
     }
