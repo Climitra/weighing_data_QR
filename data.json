@@ -62895,9 +62895,9 @@
      15.9894
     ],
     "ASH": [
-     13.8557,
-     14.8601,
-     14.0978
+     null,
+     null,
+     null
     ],
     "TM": [
      null,
@@ -62906,7 +62906,7 @@
     ]
    },
    "pct": {},
-   "last": "Deepak Pandey | Ash typed in from paper (results page) | 14-Nov-2026 19:38",
+   "last": "Girish | Ash reset (results page) | 24-Nov-2026 16:15",
    "ev": [
     {
      "id": "1794565342601-wr45o",
@@ -63069,6 +63069,20 @@
      "via": "paper",
      "wb": "mohan",
      "wt": 1794665280000
+    },
+    {
+     "id": "1795517129203-rsl6g0",
+     "t": 1795517129203,
+     "by": "Girish",
+     "a": "reset",
+     "k": "ASH",
+     "o": [
+      13.8557,
+      14.8601,
+      14.0978
+     ],
+     "h": "ASH W1-27-4",
+     "via": "results"
     }
    ],
    "h": {
