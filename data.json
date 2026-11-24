@@ -63488,9 +63488,9 @@
      39.9002
     ],
     "VM": [
-     null,
-     null,
-     null
+     15.2315,
+     16.2342,
+     16.0373
     ],
     "ASH": [
      14.787,
@@ -63504,7 +63504,7 @@
     ]
    },
    "pct": {},
-   "last": "Girish | Volatile Matter reset (results page) | 24-Nov-2026 08:05",
+   "last": "Girish | Volatile Matter typed in from paper (results page) | 24-Nov-2026 13:08",
    "ev": [
     {
      "id": "1794565241402-0woaw",
@@ -63774,6 +63774,48 @@
      ],
      "h": "VM W1-27-13",
      "via": "results"
+    },
+    {
+     "id": "1795505907421-pp4o6f-0",
+     "t": 1795505907421,
+     "by": "Girish",
+     "a": "w",
+     "k": "VM",
+     "s": 1,
+     "v": 15.2315,
+     "o": null,
+     "h": "VM W1-27-13",
+     "via": "paper",
+     "wb": "Ramesh",
+     "wt": 1795505820000
+    },
+    {
+     "id": "1795505907421-pp4o6f-1",
+     "t": 1795505907421,
+     "by": "Girish",
+     "a": "w",
+     "k": "VM",
+     "s": 2,
+     "v": 16.2342,
+     "o": null,
+     "h": "VM W1-27-13",
+     "via": "paper",
+     "wb": "Ramesh",
+     "wt": 1795505820000
+    },
+    {
+     "id": "1795505907421-pp4o6f-2",
+     "t": 1795505907421,
+     "by": "Girish",
+     "a": "w",
+     "k": "VM",
+     "s": 3,
+     "v": 16.0373,
+     "o": null,
+     "h": "VM W1-27-13",
+     "via": "paper",
+     "wb": "Ramesh",
+     "wt": 1795505820000
     }
    ],
    "h": {
