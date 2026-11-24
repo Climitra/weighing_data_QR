@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-24T16:17:27+05:30",
+ "generated": "2026-11-24T16:19:05+05:30",
  "names_updated": "2026-11-22T15:17:16+05:30",
  "limits": {
   "MC": [
@@ -41,8 +41,8 @@
  },
  "count": 375,
  "counts": {
-  "complete": 370,
-  "incomplete": 5,
+  "complete": 369,
+  "incomplete": 6,
   "not started": 0,
   "awaiting approval": 0
  },
@@ -7259,25 +7259,22 @@
    "name": "GorChuri11",
    "supplier": "Climitra Lab Portal",
    "date": "2026-11-05",
-   "status": "complete",
-   "pending": [],
+   "status": "incomplete",
+   "pending": [
+    "ASH"
+   ],
    "moisture": 3.96,
    "total_moisture": null,
    "vm_loss": 19.64,
    "vm_ar": 15.68,
    "vm_db": 16.32,
-   "ash_ar": 31.27,
-   "ash_db": 32.56,
-   "fc_ar": 49.09,
-   "fc_db": 51.12,
-   "flags": [
-    "ASH 32.56 % db above 12 % db",
-    "FC 51.11 % db below 72 % db"
-   ],
+   "ash_ar": null,
+   "ash_db": null,
+   "fc_ar": null,
+   "fc_db": null,
+   "flags": [],
    "checks": [],
-   "last_entry": "Girish | Volatile Matter typed in from paper (results page) | 24-Nov-2026 13:08",
-   "approved_by": "Girish",
-   "approved_at": "2026-11-24T13:11:01+05:30"
+   "last_entry": "Girish | Ash reset (results page) | 24-Nov-2026 16:18"
   },
   {
    "code": "T1067",
