@@ -34,7 +34,6 @@ T1017,K6-261021-P04,K6 Experiment 2 @ Satapar,2026-10-24,VM,5.23,19.44,1.67,,VM 
 T1019,K6-261021-P06,K6 Experiment 2 @ Satapar,2026-10-24,Moisture,18.98,12.55,4.63,,MC 18.98 % above 10 %,complete,
 T1020,K6-261021-P07,K6 Experiment 2 @ Satapar,2026-10-24,Moisture,20.54,10.12,3.27,,MC 20.54 % above 10 %,complete,
 T1021,K6-261021-P08,K6 Experiment 2 @ Satapar,2026-10-24,"Moisture, VM, Ash",21.22,17.67,0.96,,MC 21.22 % above 10 %; VM 22.43 % db above 17.5 % db; ASH 1.22 % db below 1.5 % db,complete,
-T1022,K6-261021-P09,K6 Experiment 2 @ Satapar,2026-10-24,VM,8.24,23.08,2.33,,VM 25.15 % db above 17.5 % db,complete,
 T1057,GorChuri2,Climitra Lab Portal,2026-11-05,"Ash, Fixed carbon (check VM and Ash)",3.43,16.02,32.97,,ASH 34.14 % db above 12 % db; FC 49.27 % db below 72 % db,complete,
 T1058,GorChuri3,Climitra Lab Portal,2026-11-05,"Ash, Fixed carbon (check VM and Ash)",3.4,16.01,34.32,,ASH 35.53 % db above 12 % db; FC 47.90 % db below 72 % db,complete,
 T1059,Gorchuri4,Climitra Lab Portal,2026-11-05,"Ash, Fixed carbon (check VM and Ash)",3.6,16.62,19.91,,ASH 20.65 % db above 12 % db; FC 62.11 % db below 72 % db,complete,

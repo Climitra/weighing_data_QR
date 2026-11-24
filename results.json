@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-24T12:00:06+05:30",
+ "generated": "2026-11-24T12:00:30+05:30",
  "names_updated": "2026-11-22T15:17:16+05:30",
  "limits": {
   "MC": [
@@ -39,12 +39,12 @@
   "ash_db": "ash_ar / (100 - moisture) * 100",
   "fc": "100 minus the others, by difference"
  },
- "count": 327,
+ "count": 328,
  "counts": {
-  "complete": 324,
+  "complete": 325,
   "incomplete": 3,
   "not started": 0,
-  "awaiting approval": 48
+  "awaiting approval": 47
  },
  "results": [
   {
@@ -5609,6 +5609,30 @@
    "last_entry": "Girish | Ash typed in from paper (by Claude) | 07-Nov-2026 18:50"
   },
   {
+   "code": "T1022",
+   "name": "K6-261021-P09",
+   "supplier": "K6 Experiment 2 @ Satapar",
+   "date": "2026-10-24",
+   "status": "complete",
+   "pending": [],
+   "moisture": 8.24,
+   "total_moisture": null,
+   "vm_loss": 31.32,
+   "vm_ar": 23.08,
+   "vm_db": 25.15,
+   "ash_ar": 2.33,
+   "ash_db": 2.53,
+   "fc_ar": 66.36,
+   "fc_db": 72.31,
+   "flags": [
+    "VM 25.15 % db above 17.5 % db"
+   ],
+   "checks": [],
+   "last_entry": "Girish | Ash typed in from paper (by Claude) | 07-Nov-2026 18:50",
+   "approved_by": "Girish",
+   "approved_at": "2026-11-24T12:00:21+05:30"
+  },
+  {
    "code": "T1023",
    "name": "K6-261021-P10",
    "supplier": "K6 Experiment 2 @ Satapar",
@@ -7376,17 +7400,6 @@
     "MC 21.22 % above 10 %",
     "VM 22.43 % db above 17.5 % db",
     "ASH 1.22 % db below 1.5 % db"
-   ],
-   "checks": []
-  },
-  {
-   "code": "T1022",
-   "name": "K6-261021-P09",
-   "supplier": "K6 Experiment 2 @ Satapar",
-   "date": "2026-10-24",
-   "status": "complete",
-   "flags": [
-    "VM 25.15 % db above 17.5 % db"
    ],
    "checks": []
   },
