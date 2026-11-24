@@ -13326,6 +13326,43 @@
     }
    },
    "via": "results page"
+  },
+  {
+   "id": "1795517553925-rsffbq",
+   "at": "2026-11-24T16:22:33+05:30",
+   "by": "Girish",
+   "action": "reset",
+   "code": "T1061",
+   "test": "Ash",
+   "key": "ASH",
+   "step": null,
+   "old": [
+    22.3737,
+    23.3793,
+    22.6333
+   ],
+   "new": [
+    null,
+    null,
+    null
+   ],
+   "saved": {
+    "W1": {
+     "at": "2026-11-13T16:39:02+05:30",
+     "by": "Mohan"
+    },
+    "W2": {
+     "at": "2026-11-13T16:40:14+05:30",
+     "by": "Mohan"
+    },
+    "W3": {
+     "at": "2026-11-14T19:32:00+05:30",
+     "by": "mohan",
+     "via": "paper",
+     "entered": "Deepak Pandey"
+    }
+   },
+   "via": "results page"
   }
  ]
 }
