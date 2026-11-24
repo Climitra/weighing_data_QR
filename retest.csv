@@ -1,2 +1,2 @@
 ﻿Code,Sample name,Supplier,Date,Retest,Moisture %,VM (ar) %,Ash (ar) %,Total moisture %,Reason,Status,Approval outdated
-T1066,GorChuri11,Climitra Lab Portal,2026-11-05,Ash,3.96,,31.27,,ASH 32.56 % db above 12 % db,incomplete,
+T1066,GorChuri11,Climitra Lab Portal,2026-11-05,"Ash, Fixed carbon (check VM and Ash)",3.96,15.68,31.27,,ASH 32.56 % db above 12 % db; FC 51.11 % db below 72 % db,complete,
