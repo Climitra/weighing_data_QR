@@ -3968,6 +3968,36 @@
     ]
    },
    "via": "results page"
+  },
+  "T1014": {
+   "by": "Girish",
+   "at": "2026-11-24T12:15:50+05:30",
+   "flags": "Moisture 18.61 % above 10 %, VM 21.67 % db above 17.5 %, Fixed carbon 71.44 % db below 72 %",
+   "checks": "Ash 6.89 % db unusual for K6 Experiment 2 @ Satapar (Z +3.8, usual 2.5 %)",
+   "w": {
+    "MC": [
+     42.846,
+     43.8468,
+     43.6606
+    ],
+    "VM": [
+     16.0636,
+     17.0663,
+     16.7028
+    ],
+    "ASH": [
+     22.3889,
+     23.3926,
+     22.4452
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "note": "Because of the z-score, it seems correct",
+   "via": "results page"
   }
  },
  "limits": {
@@ -3992,5 +4022,5 @@
    60
   ]
  },
- "updated": "2026-11-24T12:13:59+05:30"
+ "updated": "2026-11-24T12:15:50+05:30"
 }
