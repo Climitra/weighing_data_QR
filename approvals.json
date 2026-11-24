@@ -2702,6 +2702,36 @@
     ]
    },
    "via": "results page"
+  },
+  "T1092": {
+   "by": "Girish",
+   "at": "2026-11-24T11:50:22+05:30",
+   "flags": "VM 21.81 % db above 17.5 %, Fixed carbon 68.72 % db below 72 %",
+   "checks": "Ash 9.47 % db unusual for R&D Satapar Kontiki Sliding Churi Experiment 1 (Z +3.8, usual 6.0 %)",
+   "w": {
+    "MC": [
+     44.4084,
+     45.4088,
+     45.3895
+    ],
+    "VM": [
+     16.1497,
+     17.1497,
+     16.9165
+    ],
+    "ASH": [
+     14.9791,
+     15.9794,
+     15.072
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "note": "seems correct",
+   "via": "results page"
   }
  },
  "limits": {
@@ -2726,5 +2756,5 @@
    60
   ]
  },
- "updated": "2026-11-24T11:49:19+05:30"
+ "updated": "2026-11-24T11:50:22+05:30"
 }
