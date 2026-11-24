@@ -3998,6 +3998,34 @@
    },
    "note": "Because of the z-score, it seems correct",
    "via": "results page"
+  },
+  "T839": {
+   "by": "Girish",
+   "at": "2026-11-24T12:16:57+05:30",
+   "flags": "Moisture 10.13 % above 10 %, Ash 17.43 % db above 12 %, Fixed carbon 68.45 % db below 72 %",
+   "w": {
+    "MC": [
+     37.4225,
+     38.4272,
+     38.3254
+    ],
+    "VM": [
+     15.8517,
+     16.8561,
+     16.6269
+    ],
+    "ASH": [
+     13.9476,
+     14.9499,
+     14.1046
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "via": "results page"
   }
  },
  "limits": {
@@ -4022,5 +4050,5 @@
    60
   ]
  },
- "updated": "2026-11-24T12:15:50+05:30"
+ "updated": "2026-11-24T12:16:57+05:30"
 }
