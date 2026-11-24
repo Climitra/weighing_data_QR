@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-24T00:10:16+05:30",
+ "generated": "2026-11-24T07:57:22+05:30",
  "names_updated": "2026-11-22T15:17:16+05:30",
  "limits": {
   "MC": [
@@ -39,12 +39,12 @@
   "ash_db": "ash_ar / (100 - moisture) * 100",
   "fc": "100 minus the others, by difference"
  },
- "count": 307,
+ "count": 308,
  "counts": {
-  "complete": 304,
+  "complete": 305,
   "incomplete": 2,
   "not started": 1,
-  "awaiting approval": 68
+  "awaiting approval": 67
  },
  "results": [
   {
@@ -6432,6 +6432,30 @@
    "last_entry": "Girish | Moisture typed in from paper (results page) | 23-Nov-2026 23:53"
   },
   {
+   "code": "T1104",
+   "name": "Adam retort-261115-P04",
+   "supplier": "R&D Satapar Adam retort",
+   "date": "2026-11-15",
+   "status": "complete",
+   "pending": [],
+   "moisture": 1.38,
+   "total_moisture": null,
+   "vm_loss": 9.96,
+   "vm_ar": 8.58,
+   "vm_db": 8.7,
+   "ash_ar": 9.72,
+   "ash_db": 9.85,
+   "fc_ar": 80.32,
+   "fc_db": 81.44,
+   "flags": [
+    "MC 1.38 % below 1.5 %"
+   ],
+   "checks": [],
+   "last_entry": "Girish | Moisture typed in from paper (results page) | 23-Nov-2026 23:59",
+   "approved_by": "Girish",
+   "approved_at": "2026-11-24T07:57:14+05:30"
+  },
+  {
    "code": "T1105",
    "name": "Adam retort-261115-P05",
    "supplier": "R&D Satapar Adam retort",
@@ -7257,17 +7281,6 @@
    "status": "complete",
    "flags": [
     "MC 1.10 % below 1.5 %"
-   ],
-   "checks": []
-  },
-  {
-   "code": "T1104",
-   "name": "Adam retort-261115-P04",
-   "supplier": "R&D Satapar Adam retort",
-   "date": "2026-11-15",
-   "status": "complete",
-   "flags": [
-    "MC 1.38 % below 1.5 %"
    ],
    "checks": []
   }
