@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-24T12:07:05+05:30",
+ "generated": "2026-11-24T12:08:24+05:30",
  "names_updated": "2026-11-22T15:17:16+05:30",
  "limits": {
   "MC": [
@@ -39,12 +39,12 @@
   "ash_db": "ash_ar / (100 - moisture) * 100",
   "fc": "100 minus the others, by difference"
  },
- "count": 337,
+ "count": 338,
  "counts": {
-  "complete": 334,
+  "complete": 335,
   "incomplete": 3,
   "not started": 0,
-  "awaiting approval": 38
+  "awaiting approval": 37
  },
  "results": [
   {
@@ -6412,6 +6412,31 @@
    "approved_at": "2026-11-24T12:06:56+05:30"
   },
   {
+   "code": "T1068",
+   "name": "sumchu5",
+   "supplier": "Climitra Lab Portal",
+   "date": "2026-11-05",
+   "status": "complete",
+   "pending": [],
+   "moisture": 2.54,
+   "total_moisture": null,
+   "vm_loss": 16.89,
+   "vm_ar": 14.35,
+   "vm_db": 14.73,
+   "ash_ar": 40.6,
+   "ash_db": 41.66,
+   "fc_ar": 42.5,
+   "fc_db": 43.61,
+   "flags": [
+    "ASH 41.66 % db above 12 % db",
+    "FC 43.62 % db below 72 % db"
+   ],
+   "checks": [],
+   "last_entry": "Deepak Pandey | Ash typed in from paper (results page) | 14-Nov-2026 19:37",
+   "approved_by": "Girish",
+   "approved_at": "2026-11-24T12:08:15+05:30"
+  },
+  {
    "code": "T1069",
    "name": "K7-261024-LOG",
    "supplier": "R&D Satapar K7 Experiment 1",
@@ -7634,18 +7659,6 @@
    "status": "incomplete",
    "flags": [
     "ASH 32.56 % db above 12 % db"
-   ],
-   "checks": []
-  },
-  {
-   "code": "T1068",
-   "name": "sumchu5",
-   "supplier": "Climitra Lab Portal",
-   "date": "2026-11-05",
-   "status": "complete",
-   "flags": [
-    "ASH 41.66 % db above 12 % db",
-    "FC 43.62 % db below 72 % db"
    ],
    "checks": []
   },
