@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-24T14:57:51+05:30",
+ "generated": "2026-11-24T16:15:45+05:30",
  "names_updated": "2026-11-22T15:17:16+05:30",
  "limits": {
   "MC": [
@@ -41,8 +41,8 @@
  },
  "count": 375,
  "counts": {
-  "complete": 372,
-  "incomplete": 3,
+  "complete": 371,
+  "incomplete": 4,
   "not started": 0,
   "awaiting approval": 0
  },
@@ -7287,25 +7287,22 @@
    "name": "sumchu4",
    "supplier": "Climitra Lab Portal",
    "date": "2026-11-05",
-   "status": "complete",
-   "pending": [],
+   "status": "incomplete",
+   "pending": [
+    "ASH"
+   ],
    "moisture": 3.96,
    "total_moisture": null,
    "vm_loss": 19.82,
    "vm_ar": 15.86,
    "vm_db": 16.52,
-   "ash_ar": 24.1,
-   "ash_db": 25.1,
-   "fc_ar": 56.07,
-   "fc_db": 58.38,
-   "flags": [
-    "ASH 25.09 % db above 12 % db",
-    "FC 58.40 % db below 72 % db"
-   ],
+   "ash_ar": null,
+   "ash_db": null,
+   "fc_ar": null,
+   "fc_db": null,
+   "flags": [],
    "checks": [],
-   "last_entry": "Deepak Pandey | Ash typed in from paper (results page) | 14-Nov-2026 19:38",
-   "approved_by": "Girish",
-   "approved_at": "2026-11-24T12:06:56+05:30"
+   "last_entry": "Girish | Ash reset (results page) | 24-Nov-2026 16:15"
   },
   {
    "code": "T1068",
