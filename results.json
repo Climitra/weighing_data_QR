@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-24T12:09:57+05:30",
+ "generated": "2026-11-24T12:11:02+05:30",
  "names_updated": "2026-11-22T15:17:16+05:30",
  "limits": {
   "MC": [
@@ -39,12 +39,12 @@
   "ash_db": "ash_ar / (100 - moisture) * 100",
   "fc": "100 minus the others, by difference"
  },
- "count": 342,
+ "count": 343,
  "counts": {
-  "complete": 339,
+  "complete": 340,
   "incomplete": 3,
   "not started": 0,
-  "awaiting approval": 33
+  "awaiting approval": 32
  },
  "results": [
   {
@@ -6316,6 +6316,31 @@
    "approved_at": "2026-11-24T08:03:23+05:30"
   },
   {
+   "code": "T1058",
+   "name": "GorChuri3",
+   "supplier": "Climitra Lab Portal",
+   "date": "2026-11-05",
+   "status": "complete",
+   "pending": [],
+   "moisture": 3.4,
+   "total_moisture": null,
+   "vm_loss": 19.41,
+   "vm_ar": 16.01,
+   "vm_db": 16.57,
+   "ash_ar": 34.32,
+   "ash_db": 35.53,
+   "fc_ar": 46.27,
+   "fc_db": 47.9,
+   "flags": [
+    "ASH 35.53 % db above 12 % db",
+    "FC 47.90 % db below 72 % db"
+   ],
+   "checks": [],
+   "last_entry": "Deepak Pandey | Ash typed in from paper (results page) | 14-Nov-2026 19:30",
+   "approved_by": "Girish",
+   "approved_at": "2026-11-24T12:10:52+05:30"
+  },
+  {
    "code": "T1059",
    "name": "Gorchuri4",
    "supplier": "Climitra Lab Portal",
@@ -7688,18 +7713,6 @@
    "flags": [
     "ASH 34.14 % db above 12 % db",
     "FC 49.27 % db below 72 % db"
-   ],
-   "checks": []
-  },
-  {
-   "code": "T1058",
-   "name": "GorChuri3",
-   "supplier": "Climitra Lab Portal",
-   "date": "2026-11-05",
-   "status": "complete",
-   "flags": [
-    "ASH 35.53 % db above 12 % db",
-    "FC 47.90 % db below 72 % db"
    ],
    "checks": []
   },
