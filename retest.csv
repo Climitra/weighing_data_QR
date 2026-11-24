@@ -1,5 +1,4 @@
 ﻿Code,Sample name,Supplier,Date,Retest,Moisture %,VM (ar) %,Ash (ar) %,Total moisture %,Reason,Status,Approval outdated
 T450,AP-ANY/09-09-26/A,Climitra Lab Portal · Venkat Reddy,2026-10-02,VM,2.85,21.91,3.57,,VM 22.55 % db above 17.5 % db,complete,
 T452,AP-PMD/24-09-26/B,Climitra Lab Portal · Narayana Swami,2026-10-02,VM,4.24,19.61,2.84,,VM 20.49 % db above 17.5 % db,incomplete,
-T454,MDK/PCS/01-10-26/A,Climitra Lab Portal · Prithvi Carbon Solution,2026-10-02,"Moisture, VM, Fixed carbon (check VM and Ash)",66.92,9.53,3.05,,MC 66.92 % above 10 %; VM 28.78 % db above 17.5 % db; FC 62.00 % db below 72 % db,complete,
 T1066,GorChuri11,Climitra Lab Portal,2026-11-05,Ash,3.96,,31.27,,ASH 32.56 % db above 12 % db,incomplete,
