@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-24T12:11:19+05:30",
+ "generated": "2026-11-24T12:12:11+05:30",
  "names_updated": "2026-11-22T15:17:16+05:30",
  "limits": {
   "MC": [
@@ -39,12 +39,12 @@
   "ash_db": "ash_ar / (100 - moisture) * 100",
   "fc": "100 minus the others, by difference"
  },
- "count": 344,
+ "count": 345,
  "counts": {
-  "complete": 341,
+  "complete": 342,
   "incomplete": 3,
   "not started": 0,
-  "awaiting approval": 31
+  "awaiting approval": 30
  },
  "results": [
   {
@@ -3629,6 +3629,31 @@
    "flags": [],
    "checks": [],
    "last_entry": "Ramesh | Moisture W3 | 01-Nov-2026 12:31"
+  },
+  {
+   "code": "T848",
+   "name": "CH2/11",
+   "supplier": "Tata 500 PO dMRV · Charanka 2 · Jumbo bag sampling",
+   "date": "2026-10-27",
+   "status": "complete",
+   "pending": [],
+   "moisture": 4.44,
+   "total_moisture": null,
+   "vm_loss": 16.87,
+   "vm_ar": 12.43,
+   "vm_db": 13.01,
+   "ash_ar": 24.48,
+   "ash_db": 25.61,
+   "fc_ar": 58.66,
+   "fc_db": 61.38,
+   "flags": [
+    "ASH 25.62 % db above 12 % db",
+    "FC 61.37 % db below 72 % db"
+   ],
+   "checks": [],
+   "last_entry": "Girish | Ash typed in from paper (by Claude) | 13-Nov-2026 14:51",
+   "approved_by": "Girish",
+   "approved_at": "2026-11-24T12:12:01+05:30"
   },
   {
    "code": "T849",
@@ -7517,18 +7542,6 @@
    "flags": [
     "ASH 18.11 % db above 12 % db",
     "FC 68.65 % db below 72 % db"
-   ],
-   "checks": []
-  },
-  {
-   "code": "T848",
-   "name": "CH2/11",
-   "supplier": "Tata 500 PO dMRV · Charanka 2 · Jumbo bag sampling",
-   "date": "2026-10-27",
-   "status": "complete",
-   "flags": [
-    "ASH 25.62 % db above 12 % db",
-    "FC 61.37 % db below 72 % db"
    ],
    "checks": []
   },
