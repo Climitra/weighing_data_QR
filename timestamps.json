@@ -10807,6 +10807,26 @@
     "at": "2026-11-23T16:50:47+05:30",
     "by": "Mohan"
    }
+  },
+  "Moisture": {
+   "W1": {
+    "at": "2026-11-24T14:57:00+05:30",
+    "by": "Ramesh",
+    "via": "paper",
+    "entered": "Girish"
+   },
+   "W2": {
+    "at": "2026-11-24T14:57:00+05:30",
+    "by": "Ramesh",
+    "via": "paper",
+    "entered": "Girish"
+   },
+   "W3": {
+    "at": "2026-11-24T14:57:00+05:30",
+    "by": "Ramesh",
+    "via": "paper",
+    "entered": "Girish"
+   }
   }
  },
  "T932": {
