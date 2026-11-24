@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-24T10:23:20+05:30",
+ "generated": "2026-11-24T10:23:36+05:30",
  "names_updated": "2026-11-22T15:17:16+05:30",
  "limits": {
   "MC": [
@@ -42,8 +42,8 @@
  "count": 316,
  "counts": {
   "complete": 312,
-  "incomplete": 2,
-  "not started": 2,
+  "incomplete": 3,
+  "not started": 1,
   "awaiting approval": 60
  },
  "results": [
@@ -52,7 +52,7 @@
    "name": "MDK/PCS/25-09-26/B",
    "supplier": "Climitra Lab Portal · Prithvi Carbon Solution",
    "date": "2026-10-02",
-   "status": "not started",
+   "status": "incomplete",
    "pending": [
     "MC",
     "VM",
@@ -70,7 +70,7 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": ""
+   "last_entry": "Mohan | Total Moisture W1 | 24-Nov-2026 10:23"
   },
   {
    "code": "T455",
