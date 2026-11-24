@@ -13086,6 +13086,41 @@
    "via": "results page, paper sheet",
    "weighedBy": "Ramesh",
    "weighedAt": "2026-11-24T00:09:00+05:30"
+  },
+  {
+   "id": "1795487753359-rs0y5l",
+   "at": "2026-11-24T08:05:53+05:30",
+   "by": "Girish",
+   "action": "reset",
+   "code": "T1066",
+   "test": "Volatile Matter",
+   "key": "VM",
+   "step": null,
+   "old": [
+    13.0463,
+    14.0473,
+    13.7545
+   ],
+   "new": [
+    null,
+    null,
+    null
+   ],
+   "saved": {
+    "W1": {
+     "at": "2026-11-13T16:13:26+05:30",
+     "by": "Ramesh"
+    },
+    "W2": {
+     "at": "2026-11-13T16:15:26+05:30",
+     "by": "Ramesh"
+    },
+    "W3": {
+     "at": "2026-11-13T17:45:07+05:30",
+     "by": "Ramesh"
+    }
+   },
+   "via": "results page"
   }
  ]
 }
