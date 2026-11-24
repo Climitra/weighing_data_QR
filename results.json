@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-24T08:00:43+05:30",
+ "generated": "2026-11-24T08:02:41+05:30",
  "names_updated": "2026-11-22T15:17:16+05:30",
  "limits": {
   "MC": [
@@ -39,12 +39,12 @@
   "ash_db": "ash_ar / (100 - moisture) * 100",
   "fc": "100 minus the others, by difference"
  },
- "count": 311,
+ "count": 312,
  "counts": {
-  "complete": 308,
+  "complete": 309,
   "incomplete": 2,
   "not started": 1,
-  "awaiting approval": 64
+  "awaiting approval": 63
  },
  "results": [
   {
@@ -5539,6 +5539,31 @@
    "last_entry": "Ramesh | Volatile Matter W3 | 05-Nov-2026 15:18"
   },
   {
+   "code": "T1015",
+   "name": "K6-261021-P02-U",
+   "supplier": "K6 Experiment 2 @ Satapar",
+   "date": "2026-10-24",
+   "status": "complete",
+   "pending": [],
+   "moisture": 20.2,
+   "total_moisture": null,
+   "vm_loss": 38.71,
+   "vm_ar": 18.5,
+   "vm_db": 23.19,
+   "ash_ar": 1.8,
+   "ash_db": 2.26,
+   "fc_ar": 59.49,
+   "fc_db": 74.56,
+   "flags": [
+    "MC 20.20 % above 10 %",
+    "VM 23.20 % db above 17.5 % db"
+   ],
+   "checks": [],
+   "last_entry": "Ramesh | Ash W3 | 23-Nov-2026 16:35",
+   "approved_by": "Girish",
+   "approved_at": "2026-11-24T08:02:31+05:30"
+  },
+  {
    "code": "T1018",
    "name": "K6-261021-P05",
    "supplier": "K6 Experiment 2 @ Satapar",
@@ -6935,18 +6960,6 @@
     "MC 18.61 % above 10 %",
     "VM 21.67 % db above 17.5 % db",
     "FC 71.44 % db below 72 % db"
-   ],
-   "checks": []
-  },
-  {
-   "code": "T1015",
-   "name": "K6-261021-P02-U",
-   "supplier": "K6 Experiment 2 @ Satapar",
-   "date": "2026-10-24",
-   "status": "complete",
-   "flags": [
-    "MC 20.20 % above 10 %",
-    "VM 23.20 % db above 17.5 % db"
    ],
    "checks": []
   },
