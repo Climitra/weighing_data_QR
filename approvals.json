@@ -3460,6 +3460,486 @@
     ]
    },
    "via": "results page"
+  },
+  "T838": {
+   "by": "Retest agreed (auto)",
+   "at": "2026-11-24T12:13:20+05:30",
+   "auto": true,
+   "flags": "Ash 20.20 % db above 12 %, Fixed carbon 67.86 % db below 72 %",
+   "note": "Ash 18.15 → 19.44 %, within ±2",
+   "w": {
+    "MC": [
+     41.5677,
+     42.5699,
+     42.5324
+    ],
+    "VM": [
+     16.2684,
+     17.2687,
+     17.1164
+    ],
+    "ASH": [
+     14.0623,
+     15.0684,
+     14.2579
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "via": "retest"
+  },
+  "T843": {
+   "by": "Retest agreed (auto)",
+   "at": "2026-11-24T12:13:20+05:30",
+   "auto": true,
+   "flags": "Ash 18.89 % db above 12 %, Fixed carbon 70.39 % db below 72 %",
+   "note": "Ash 19.48 → 18.04 %, within ±2",
+   "w": {
+    "MC": [
+     39.293,
+     40.2963,
+     40.2512
+    ],
+    "VM": [
+     15.102,
+     16.1083,
+     15.96
+    ],
+    "ASH": [
+     22.5367,
+     23.5377,
+     22.7173
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "via": "retest"
+  },
+  "T845": {
+   "by": "Retest agreed (auto)",
+   "at": "2026-11-24T12:13:20+05:30",
+   "auto": true,
+   "flags": "Ash 18.11 % db above 12 %, Fixed carbon 68.65 % db below 72 %",
+   "note": "Ash 17.38 → 16.63 %, within ±2",
+   "w": {
+    "MC": [
+     40.6195,
+     41.6215,
+     41.5394
+    ],
+    "VM": [
+     19.7617,
+     20.7673,
+     20.5627
+    ],
+    "ASH": [
+     14.8609,
+     15.8628,
+     15.0275
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "via": "retest"
+  },
+  "T850": {
+   "by": "Retest agreed (auto)",
+   "at": "2026-11-24T12:13:20+05:30",
+   "auto": true,
+   "flags": "Ash 38.89 % db above 12 %, Fixed carbon 49.72 % db below 72 %",
+   "note": "Ash 34.73 → 35.73 %, within ±2",
+   "w": {
+    "MC": [
+     44.6632,
+     45.6668,
+     45.5852
+    ],
+    "VM": [
+     14.2034,
+     15.2036,
+     15.0177
+    ],
+    "ASH": [
+     14.0054,
+     15.0071,
+     14.3633
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "via": "retest"
+  },
+  "T851": {
+   "by": "Retest agreed (auto)",
+   "at": "2026-11-24T12:13:20+05:30",
+   "auto": true,
+   "flags": "Ash 23.30 % db above 12 %, Fixed carbon 64.02 % db below 72 %",
+   "note": "Ash 20.74 → 21.66 %, within ±2",
+   "w": {
+    "MC": [
+     43.8543,
+     44.8559,
+     44.7856
+    ],
+    "VM": [
+     16.6033,
+     17.6045,
+     17.4162
+    ],
+    "ASH": [
+     14.5451,
+     15.5493,
+     14.7626
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "via": "retest"
+  },
+  "T852": {
+   "by": "Retest agreed (auto)",
+   "at": "2026-11-24T12:13:20+05:30",
+   "auto": true,
+   "flags": "Ash 13.48 % db above 12 %",
+   "note": "Ash 13.83 → 12.81 %, within ±2",
+   "w": {
+    "MC": [
+     42.83,
+     43.8302,
+     43.7805
+    ],
+    "VM": [
+     16.6712,
+     17.6774,
+     17.5088
+    ],
+    "ASH": [
+     13.8598,
+     14.8598,
+     13.9879
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "via": "retest"
+  },
+  "T856": {
+   "by": "Retest agreed (auto)",
+   "at": "2026-11-24T12:13:20+05:30",
+   "auto": true,
+   "flags": "Ash 25.26 % db above 12 %, Fixed carbon 62.48 % db below 72 %",
+   "note": "Ash 24.04 → 24.65 %, within ±2",
+   "w": {
+    "MC": [
+     39.8187,
+     40.8214,
+     40.797
+    ],
+    "VM": [
+     15.8527,
+     16.8557,
+     16.7114
+    ],
+    "ASH": [
+     14.4927,
+     15.4973,
+     14.7403
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "via": "retest"
+  },
+  "T858": {
+   "by": "Retest agreed (auto)",
+   "at": "2026-11-24T12:13:20+05:30",
+   "auto": true,
+   "flags": "Ash 13.54 % db above 12 %",
+   "note": "Ash 11.50 → 12.87 %, within ±2",
+   "w": {
+    "MC": [
+     39.293,
+     40.299,
+     40.2489
+    ],
+    "VM": [
+     16.4973,
+     17.5035,
+     17.3314
+    ],
+    "ASH": [
+     11.6282,
+     12.6299,
+     11.7571
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "via": "retest"
+  },
+  "T867": {
+   "by": "Retest agreed (auto)",
+   "at": "2026-11-24T12:13:20+05:30",
+   "auto": true,
+   "flags": "VM 19.61 % db above 17.5 %, Fixed carbon 71.77 % db below 72 %",
+   "note": "VM 20.17 → 21.25 %, within ±2",
+   "w": {
+    "MC": [
+     42.8461,
+     43.8465,
+     43.8261
+    ],
+    "VM": [
+     19.6921,
+     20.6922,
+     20.4797
+    ],
+    "ASH": [
+     11.4786,
+     12.4807,
+     11.5632
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "via": "retest"
+  },
+  "T870": {
+   "by": "Retest agreed (auto)",
+   "at": "2026-11-24T12:13:20+05:30",
+   "auto": true,
+   "flags": "VM 21.37 % db above 17.5 %",
+   "note": "VM 26.49 → 25.58 %, within ±2",
+   "w": {
+    "MC": [
+     45.1391,
+     46.14,
+     46.0864
+    ],
+    "VM": [
+     16.4372,
+     17.4396,
+     17.1832
+    ],
+    "ASH": [
+     12.6251,
+     13.6299,
+     12.6694
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "via": "retest"
+  },
+  "T886": {
+   "by": "Retest agreed (auto)",
+   "at": "2026-11-24T12:13:20+05:30",
+   "auto": true,
+   "flags": "Ash 13.92 % db above 12 %",
+   "note": "Ash 14.29 → 13.48 %, within ±2",
+   "w": {
+    "MC": [
+     43.9132,
+     44.9178,
+     44.8863
+    ],
+    "VM": [
+     14.6034,
+     15.6063,
+     15.4568
+    ],
+    "ASH": [
+     13.3487,
+     14.3498,
+     13.4836
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "via": "retest"
+  },
+  "T893": {
+   "by": "Retest agreed (auto)",
+   "at": "2026-11-24T12:13:20+05:30",
+   "auto": true,
+   "flags": "VM 19.98 % db above 17.5 %",
+   "note": "VM 21.70 → 22.44 %, within ±2",
+   "w": {
+    "MC": [
+     42.7482,
+     43.7492,
+     43.7185
+    ],
+    "VM": [
+     15.1859,
+     16.1885,
+     15.9635
+    ],
+    "ASH": [
+     11.9365,
+     12.9374,
+     11.9708
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "via": "retest"
+  },
+  "T898": {
+   "by": "Retest agreed (auto)",
+   "at": "2026-11-24T12:13:20+05:30",
+   "auto": true,
+   "flags": "Ash 17.54 % db above 12 %, Fixed carbon 70.33 % db below 72 %",
+   "note": "Ash 17.75 → 17.10 %, within ±2",
+   "w": {
+    "MC": [
+     42.7599,
+     43.7612,
+     43.7359
+    ],
+    "VM": [
+     16.2283,
+     17.2297,
+     17.086
+    ],
+    "ASH": [
+     14.3475,
+     15.3497,
+     14.5189
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "via": "retest"
+  },
+  "T900": {
+   "by": "Retest agreed (auto)",
+   "at": "2026-11-24T12:13:20+05:30",
+   "auto": true,
+   "flags": "Ash 13.81 % db above 12 %, Fixed carbon 71.94 % db below 72 %",
+   "note": "Ash 13.91 → 13.40 %, within ±2",
+   "w": {
+    "MC": [
+     44.4058,
+     45.4088,
+     45.3789
+    ],
+    "VM": [
+     14.4132,
+     15.416,
+     15.2474
+    ],
+    "ASH": [
+     11.3944,
+     12.3986,
+     11.529
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "via": "retest"
+  },
+  "T943": {
+   "by": "Retest agreed (auto)",
+   "at": "2026-11-24T12:13:20+05:30",
+   "auto": true,
+   "flags": "VM 23.60 % db above 17.5 %",
+   "note": "VM 24.75 → 25.75 %, within ±2",
+   "w": {
+    "MC": [
+     38.9395,
+     39.9422,
+     39.9139
+    ],
+    "VM": [
+     13.8679,
+     14.871,
+     14.6127
+    ],
+    "ASH": [
+     12.2506,
+     13.2572,
+     12.2927
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "via": "retest"
+  },
+  "T917": {
+   "by": "Retest agreed (auto)",
+   "at": "2026-11-24T12:13:20+05:30",
+   "auto": true,
+   "flags": "VM 19.97 % db above 17.5 %",
+   "note": "VM 21.31 → 22.25 %, within ±2",
+   "w": {
+    "MC": [
+     42.8453,
+     43.8456,
+     43.8171
+    ],
+    "VM": [
+     13.4231,
+     14.4264,
+     14.2032
+    ],
+    "ASH": [
+     12.205,
+     13.2076,
+     12.2352
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "via": "retest"
   }
  },
  "limits": {
@@ -3484,5 +3964,5 @@
    60
   ]
  },
- "updated": "2026-11-24T12:12:01+05:30"
+ "updated": "2026-11-24T12:13:20+05:30"
 }
