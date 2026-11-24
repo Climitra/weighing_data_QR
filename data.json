@@ -63563,9 +63563,9 @@
      16.0373
     ],
     "ASH": [
-     14.787,
-     15.7893,
-     15.1004
+     null,
+     null,
+     null
     ],
     "TM": [
      null,
@@ -63574,7 +63574,7 @@
     ]
    },
    "pct": {},
-   "last": "Girish | Volatile Matter typed in from paper (results page) | 24-Nov-2026 13:08",
+   "last": "Girish | Ash reset (results page) | 24-Nov-2026 16:18",
    "ev": [
     {
      "id": "1794565241402-0woaw",
@@ -63886,6 +63886,20 @@
      "via": "paper",
      "wb": "Ramesh",
      "wt": 1795505820000
+    },
+    {
+     "id": "1795517329396-rsaqww",
+     "t": 1795517329396,
+     "by": "Girish",
+     "a": "reset",
+     "k": "ASH",
+     "o": [
+      14.787,
+      15.7893,
+      15.1004
+     ],
+     "h": "ASH B261123-2-2",
+     "via": "results"
     }
    ],
    "h": {
