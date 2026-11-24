@@ -1,7 +1,7 @@
 {
  "app": "proximate-retest",
  "version": 1,
- "generated": "2026-11-24T08:11:23+05:30",
+ "generated": "2026-11-24T10:16:24+05:30",
  "limits": {
   "MC": [
    1.5,
@@ -107,7 +107,7 @@
    "name": "AP-PMD/24-09-26/B",
    "supplier": "Climitra Lab Portal · Narayana Swami",
    "date": "2026-10-02",
-   "status": "complete",
+   "status": "incomplete",
    "flags": [
     "VM 20.49 % db above 17.5 % db"
    ],
