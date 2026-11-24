@@ -4222,6 +4222,36 @@
     ]
    },
    "via": "results page"
+  },
+  "T454": {
+   "by": "Girish",
+   "at": "2026-11-24T12:25:08+05:30",
+   "flags": "Moisture 66.92 % above 10 %, VM 28.78 % db above 17.5 %, Fixed carbon 62.00 % db below 72 %",
+   "checks": "moisture > 50 %",
+   "w": {
+    "MC": [
+     42.7439,
+     43.7453,
+     43.0752
+    ],
+    "VM": [
+     16.1476,
+     17.1498,
+     16.3837
+    ],
+    "ASH": [
+     11.5876,
+     12.5881,
+     11.6181
+    ],
+    "TM": [
+     null,
+     null,
+     null
+    ]
+   },
+   "note": "clearing backlogs",
+   "via": "results page"
   }
  },
  "limits": {
@@ -4246,5 +4276,5 @@
    60
   ]
  },
- "updated": "2026-11-24T12:24:26+05:30"
+ "updated": "2026-11-24T12:25:08+05:30"
 }
