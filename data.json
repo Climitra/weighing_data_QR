@@ -71172,13 +71172,27 @@
      null
     ],
     "TM": [
-     null,
+     0.39,
      null,
      null
     ]
    },
    "pct": {},
-   "last": ""
+   "last": "Mohan | Total Moisture W1 | 24-Nov-2026 10:23",
+   "ev": [
+    {
+     "id": "1795496001628-zucyd",
+     "t": 1795496001628,
+     "by": "Mohan",
+     "a": "w",
+     "k": "TM",
+     "s": 1,
+     "v": 0.39,
+     "o": null,
+     "h": "",
+     "b": 1
+    }
+   ]
   }
  },
  "batches": {
