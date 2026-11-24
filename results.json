@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-24T08:04:55+05:30",
+ "generated": "2026-11-24T08:06:08+05:30",
  "names_updated": "2026-11-22T15:17:16+05:30",
  "limits": {
   "MC": [
@@ -7228,11 +7228,9 @@
    "name": "GorChuri11",
    "supplier": "Climitra Lab Portal",
    "date": "2026-11-05",
-   "status": "complete",
+   "status": "incomplete",
    "flags": [
-    "VM 26.33 % db above 17.5 % db",
-    "ASH 32.56 % db above 12 % db",
-    "FC 41.11 % db below 72 % db"
+    "ASH 32.56 % db above 12 % db"
    ],
    "checks": []
   },
