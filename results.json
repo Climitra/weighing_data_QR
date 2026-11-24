@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-24T13:11:13+05:30",
+ "generated": "2026-11-24T14:57:51+05:30",
  "names_updated": "2026-11-22T15:17:16+05:30",
  "limits": {
   "MC": [
@@ -41,8 +41,8 @@
  },
  "count": 375,
  "counts": {
-  "complete": 371,
-  "incomplete": 4,
+  "complete": 372,
+  "incomplete": 3,
   "not started": 0,
   "awaiting approval": 0
  },
@@ -5242,22 +5242,20 @@
    "name": "CH2/73",
    "supplier": "Tata 500 PO dMRV · Charanka 2 · Jumbo bag sampling",
    "date": "2026-10-31",
-   "status": "incomplete",
-   "pending": [
-    "MC"
-   ],
-   "moisture": null,
+   "status": "complete",
+   "pending": [],
+   "moisture": 2.98,
    "total_moisture": null,
    "vm_loss": 12.87,
-   "vm_ar": null,
-   "vm_db": null,
+   "vm_ar": 9.89,
+   "vm_db": 10.19,
    "ash_ar": 2.63,
-   "ash_db": null,
-   "fc_ar": null,
-   "fc_db": null,
+   "ash_db": 2.71,
+   "fc_ar": 84.5,
+   "fc_db": 87.1,
    "flags": [],
    "checks": [],
-   "last_entry": "Mohan | Ash W3 | 23-Nov-2026 16:50"
+   "last_entry": "Girish | Moisture typed in from paper (results page) | 24-Nov-2026 14:57"
   },
   {
    "code": "T911",
