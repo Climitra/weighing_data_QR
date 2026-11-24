@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-24T12:18:26+05:30",
+ "generated": "2026-11-24T12:19:03+05:30",
  "names_updated": "2026-11-22T15:17:16+05:30",
  "limits": {
   "MC": [
@@ -39,12 +39,12 @@
   "ash_db": "ash_ar / (100 - moisture) * 100",
   "fc": "100 minus the others, by difference"
  },
- "count": 365,
+ "count": 366,
  "counts": {
-  "complete": 362,
+  "complete": 363,
   "incomplete": 3,
   "not started": 0,
-  "awaiting approval": 10
+  "awaiting approval": 9
  },
  "results": [
   {
@@ -4114,6 +4114,31 @@
    "last_entry": "Ramesh | Volatile Matter W3 | 01-Nov-2026 17:32"
   },
   {
+   "code": "T865",
+   "name": "CH2/28",
+   "supplier": "Tata 500 PO dMRV · Charanka 2 · Jumbo bag sampling",
+   "date": "2026-10-27",
+   "status": "complete",
+   "pending": [],
+   "moisture": 4.61,
+   "total_moisture": null,
+   "vm_loss": 16.87,
+   "vm_ar": 12.26,
+   "vm_db": 12.85,
+   "ash_ar": 19.67,
+   "ash_db": 20.62,
+   "fc_ar": 63.46,
+   "fc_db": 66.53,
+   "flags": [
+    "ASH 20.62 % db above 12 % db",
+    "FC 66.53 % db below 72 % db"
+   ],
+   "checks": [],
+   "last_entry": "Girish | Ash typed in from paper (by Claude) | 13-Nov-2026 14:51",
+   "approved_by": "Girish",
+   "approved_at": "2026-11-24T12:18:54+05:30"
+  },
+  {
    "code": "T866",
    "name": "CH2/29",
    "supplier": "Tata 500 PO dMRV · Charanka 2 · Jumbo bag sampling",
@@ -7987,18 +8012,6 @@
    "status": "complete",
    "flags": [
     "VM 18.01 % db above 17.5 % db"
-   ],
-   "checks": []
-  },
-  {
-   "code": "T865",
-   "name": "CH2/28",
-   "supplier": "Tata 500 PO dMRV · Charanka 2 · Jumbo bag sampling",
-   "date": "2026-10-27",
-   "status": "complete",
-   "flags": [
-    "ASH 20.62 % db above 12 % db",
-    "FC 66.53 % db below 72 % db"
    ],
    "checks": []
   },
