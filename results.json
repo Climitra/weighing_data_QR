@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-24T08:03:35+05:30",
+ "generated": "2026-11-24T08:04:55+05:30",
  "names_updated": "2026-11-22T15:17:16+05:30",
  "limits": {
   "MC": [
@@ -39,12 +39,12 @@
   "ash_db": "ash_ar / (100 - moisture) * 100",
   "fc": "100 minus the others, by difference"
  },
- "count": 313,
+ "count": 314,
  "counts": {
-  "complete": 310,
+  "complete": 311,
   "incomplete": 2,
   "not started": 1,
-  "awaiting approval": 62
+  "awaiting approval": 61
  },
  "results": [
   {
@@ -5974,6 +5974,32 @@
    "approved_at": "2026-11-24T08:03:23+05:30"
   },
   {
+   "code": "T1060",
+   "name": "gorchuri5",
+   "supplier": "Climitra Lab Portal",
+   "date": "2026-11-05",
+   "status": "complete",
+   "pending": [],
+   "moisture": 3.6,
+   "total_moisture": null,
+   "vm_loss": 20.6,
+   "vm_ar": 17.01,
+   "vm_db": 17.64,
+   "ash_ar": 27.42,
+   "ash_db": 28.45,
+   "fc_ar": 51.97,
+   "fc_db": 53.91,
+   "flags": [
+    "VM 17.63 % db above 17.5 % db",
+    "ASH 28.44 % db above 12 % db",
+    "FC 53.93 % db below 72 % db"
+   ],
+   "checks": [],
+   "last_entry": "Ramesh | Ash W3 | 23-Nov-2026 16:36",
+   "approved_by": "Girish",
+   "approved_at": "2026-11-24T08:04:48+05:30"
+  },
+  {
    "code": "T1064",
    "name": "GorChuri9",
    "supplier": "Climitra Lab Portal",
@@ -7158,19 +7184,6 @@
    "flags": [
     "ASH 20.65 % db above 12 % db",
     "FC 62.11 % db below 72 % db"
-   ],
-   "checks": []
-  },
-  {
-   "code": "T1060",
-   "name": "gorchuri5",
-   "supplier": "Climitra Lab Portal",
-   "date": "2026-11-05",
-   "status": "complete",
-   "flags": [
-    "VM 17.63 % db above 17.5 % db",
-    "ASH 28.44 % db above 12 % db",
-    "FC 53.93 % db below 72 % db"
    ],
    "checks": []
   },
