@@ -13291,6 +13291,41 @@
     }
    },
    "via": "results page"
+  },
+  {
+   "id": "1795517329396-rsaqww",
+   "at": "2026-11-24T16:18:49+05:30",
+   "by": "Girish",
+   "action": "reset",
+   "code": "T1066",
+   "test": "Ash",
+   "key": "ASH",
+   "step": null,
+   "old": [
+    14.787,
+    15.7893,
+    15.1004
+   ],
+   "new": [
+    null,
+    null,
+    null
+   ],
+   "saved": {
+    "W1": {
+     "at": "2026-11-23T15:02:22+05:30",
+     "by": "Ramesh"
+    },
+    "W2": {
+     "at": "2026-11-23T15:04:15+05:30",
+     "by": "Ramesh"
+    },
+    "W3": {
+     "at": "2026-11-23T16:36:59+05:30",
+     "by": "Ramesh"
+    }
+   },
+   "via": "results page"
   }
  ]
 }
