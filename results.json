@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-24T12:05:16+05:30",
+ "generated": "2026-11-24T12:06:17+05:30",
  "names_updated": "2026-11-22T15:17:16+05:30",
  "limits": {
   "MC": [
@@ -39,12 +39,12 @@
   "ash_db": "ash_ar / (100 - moisture) * 100",
   "fc": "100 minus the others, by difference"
  },
- "count": 334,
+ "count": 335,
  "counts": {
-  "complete": 331,
+  "complete": 332,
   "incomplete": 3,
   "not started": 0,
-  "awaiting approval": 41
+  "awaiting approval": 40
  },
  "results": [
   {
@@ -6456,6 +6456,30 @@
    "last_entry": "Mohan | Volatile Matter W3 | 15-Nov-2026 16:50"
   },
   {
+   "code": "T1074",
+   "name": "K7-261024-P03",
+   "supplier": "R&D Satapar K7 Experiment 1",
+   "date": "2026-11-04",
+   "status": "complete",
+   "pending": [],
+   "moisture": 2.87,
+   "total_moisture": null,
+   "vm_loss": 20.68,
+   "vm_ar": 17.81,
+   "vm_db": 18.33,
+   "ash_ar": 4.3,
+   "ash_db": 4.43,
+   "fc_ar": 75.02,
+   "fc_db": 77.24,
+   "flags": [
+    "VM 18.34 % db above 17.5 % db"
+   ],
+   "checks": [],
+   "last_entry": "Mohan | Volatile Matter W3 | 15-Nov-2026 16:51",
+   "approved_by": "Girish",
+   "approved_at": "2026-11-24T12:06:01+05:30"
+  },
+  {
    "code": "T1075",
    "name": "K7-261024-P04",
    "supplier": "R&D Satapar K7 Experiment 1",
@@ -7607,17 +7631,6 @@
    "status": "complete",
    "flags": [
     "VM 23.05 % db above 17.5 % db"
-   ],
-   "checks": []
-  },
-  {
-   "code": "T1074",
-   "name": "K7-261024-P03",
-   "supplier": "R&D Satapar K7 Experiment 1",
-   "date": "2026-11-04",
-   "status": "complete",
-   "flags": [
-    "VM 18.34 % db above 17.5 % db"
    ],
    "checks": []
   }
