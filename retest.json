@@ -1,7 +1,7 @@
 {
  "app": "proximate-retest",
  "version": 1,
- "generated": "2026-11-24T11:59:51+05:30",
+ "generated": "2026-11-24T12:00:06+05:30",
  "limits": {
   "MC": [
    1.5,
@@ -30,9 +30,9 @@
   "FC"
  ],
  "rule": "moisture, VM (db), ash (db), fixed carbon (db) or total moisture above the upper limit, below the lower limit, or negative, and not approved",
- "count": 49,
+ "count": 48,
  "by_test": {
-  "MC": 9,
+  "MC": 8,
   "VM": 19,
   "ASH": 28,
   "FC": 27,
@@ -774,25 +774,6 @@
    "moisture": 8.24,
    "vm_ar": 23.08,
    "ash_ar": 2.33,
-   "total_moisture": null,
-   "approval_outdated": false
-  },
-  {
-   "code": "T1026",
-   "name": "NAL/102 R1 (29/10)",
-   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling · Retest 1",
-   "date": "2026-10-29",
-   "status": "complete",
-   "flags": [
-    "MC 1.11 % below 1.5 %"
-   ],
-   "checks": [],
-   "retest": [
-    "MC"
-   ],
-   "moisture": 1.11,
-   "vm_ar": 16.28,
-   "ash_ar": 3.28,
    "total_moisture": null,
    "approval_outdated": false
   },

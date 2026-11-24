@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-24T11:59:51+05:30",
+ "generated": "2026-11-24T12:00:06+05:30",
  "names_updated": "2026-11-22T15:17:16+05:30",
  "limits": {
   "MC": [
@@ -39,12 +39,12 @@
   "ash_db": "ash_ar / (100 - moisture) * 100",
   "fc": "100 minus the others, by difference"
  },
- "count": 326,
+ "count": 327,
  "counts": {
-  "complete": 323,
+  "complete": 324,
   "incomplete": 3,
   "not started": 0,
-  "awaiting approval": 49
+  "awaiting approval": 48
  },
  "results": [
   {
@@ -5679,6 +5679,30 @@
    "last_entry": "Mohan | Moisture W3 | 22-Nov-2026 18:27"
   },
   {
+   "code": "T1026",
+   "name": "NAL/102 R1 (29/10)",
+   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling · Retest 1",
+   "date": "2026-10-29",
+   "status": "complete",
+   "pending": [],
+   "moisture": 1.11,
+   "total_moisture": null,
+   "vm_loss": 17.39,
+   "vm_ar": 16.28,
+   "vm_db": 16.46,
+   "ash_ar": 3.28,
+   "ash_db": 3.31,
+   "fc_ar": 79.33,
+   "fc_db": 80.22,
+   "flags": [
+    "MC 1.11 % below 1.5 %"
+   ],
+   "checks": [],
+   "last_entry": "Girish | Moisture, Volatile Matter, Ash typed in from paper (by Claude) | 13-Nov-2026 14:48",
+   "approved_by": "Girish",
+   "approved_at": "2026-11-24T11:59:55+05:30"
+  },
+  {
    "code": "T1027",
    "name": "NAL/120 R1 (29/10)",
    "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling · Retest 1",
@@ -7363,17 +7387,6 @@
    "status": "complete",
    "flags": [
     "VM 25.15 % db above 17.5 % db"
-   ],
-   "checks": []
-  },
-  {
-   "code": "T1026",
-   "name": "NAL/102 R1 (29/10)",
-   "supplier": "Tata 500 PO dMRV · Naliya · Jumbo bag sampling · Retest 1",
-   "date": "2026-10-29",
-   "status": "complete",
-   "flags": [
-    "MC 1.11 % below 1.5 %"
    ],
    "checks": []
   },
