@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-24T12:25:18+05:30",
+ "generated": "2026-11-24T12:25:33+05:30",
  "names_updated": "2026-11-22T15:17:16+05:30",
  "limits": {
   "MC": [
@@ -39,12 +39,12 @@
   "ash_db": "ash_ar / (100 - moisture) * 100",
   "fc": "100 minus the others, by difference"
  },
- "count": 372,
+ "count": 373,
  "counts": {
   "complete": 369,
-  "incomplete": 3,
+  "incomplete": 4,
   "not started": 0,
-  "awaiting approval": 3
+  "awaiting approval": 2
  },
  "results": [
   {
@@ -97,6 +97,32 @@
    "last_entry": "Girish | Moisture, Volatile Matter, Ash typed in from paper (by Claude) | 13-Nov-2026 14:43",
    "approved_by": "Girish",
    "approved_at": "2026-11-24T12:24:26+05:30"
+  },
+  {
+   "code": "T452",
+   "name": "AP-PMD/24-09-26/B",
+   "supplier": "Climitra Lab Portal · Narayana Swami",
+   "date": "2026-10-02",
+   "status": "incomplete",
+   "pending": [
+    "TM"
+   ],
+   "moisture": 4.24,
+   "total_moisture": null,
+   "vm_loss": 23.86,
+   "vm_ar": 19.61,
+   "vm_db": 20.48,
+   "ash_ar": 2.84,
+   "ash_db": 2.96,
+   "fc_ar": 73.3,
+   "fc_db": 76.55,
+   "flags": [
+    "VM 20.49 % db above 17.5 % db"
+   ],
+   "checks": [],
+   "last_entry": "Girish | Moisture, Volatile Matter, Ash typed in from paper (by Claude) | 13-Nov-2026 14:43",
+   "approved_by": "Girish",
+   "approved_at": "2026-11-24T12:25:25+05:30"
   },
   {
    "code": "T453",
@@ -8090,17 +8116,6 @@
    "status": "complete",
    "flags": [
     "VM 22.55 % db above 17.5 % db"
-   ],
-   "checks": []
-  },
-  {
-   "code": "T452",
-   "name": "AP-PMD/24-09-26/B",
-   "supplier": "Climitra Lab Portal · Narayana Swami",
-   "date": "2026-10-02",
-   "status": "incomplete",
-   "flags": [
-    "VM 20.49 % db above 17.5 % db"
    ],
    "checks": []
   },

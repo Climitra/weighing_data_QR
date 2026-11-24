@@ -1,4 +1,3 @@
 ﻿Code,Sample name,Supplier,Date,Retest,Moisture %,VM (ar) %,Ash (ar) %,Total moisture %,Reason,Status,Approval outdated
 T450,AP-ANY/09-09-26/A,Climitra Lab Portal · Venkat Reddy,2026-10-02,VM,2.85,21.91,3.57,,VM 22.55 % db above 17.5 % db,complete,
-T452,AP-PMD/24-09-26/B,Climitra Lab Portal · Narayana Swami,2026-10-02,VM,4.24,19.61,2.84,,VM 20.49 % db above 17.5 % db,incomplete,
 T1066,GorChuri11,Climitra Lab Portal,2026-11-05,Ash,3.96,,31.27,,ASH 32.56 % db above 12 % db,incomplete,
