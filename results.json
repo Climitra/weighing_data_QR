@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-24T10:16:24+05:30",
+ "generated": "2026-11-24T10:22:25+05:30",
  "names_updated": "2026-11-22T15:17:16+05:30",
  "limits": {
   "MC": [
@@ -39,14 +39,38 @@
   "ash_db": "ash_ar / (100 - moisture) * 100",
   "fc": "100 minus the others, by difference"
  },
- "count": 315,
+ "count": 316,
  "counts": {
   "complete": 312,
   "incomplete": 2,
-  "not started": 1,
+  "not started": 2,
   "awaiting approval": 60
  },
  "results": [
+  {
+   "code": "T453",
+   "name": "MDK/PCS/25-09-26/B",
+   "supplier": "Climitra Lab Portal · Prithvi Carbon Solution",
+   "date": "2026-10-02",
+   "status": "not started",
+   "pending": [
+    "MC",
+    "VM",
+    "ASH"
+   ],
+   "moisture": null,
+   "total_moisture": null,
+   "vm_loss": null,
+   "vm_ar": null,
+   "vm_db": null,
+   "ash_ar": null,
+   "ash_db": null,
+   "fc_ar": null,
+   "fc_db": null,
+   "flags": [],
+   "checks": [],
+   "last_entry": ""
+  },
   {
    "code": "T455",
    "name": "SUM/76 R1 (17/10)",
