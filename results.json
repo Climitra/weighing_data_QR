@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-24T11:48:44+05:30",
+ "generated": "2026-11-24T11:49:28+05:30",
  "names_updated": "2026-11-22T15:17:16+05:30",
  "limits": {
   "MC": [
@@ -39,12 +39,12 @@
   "ash_db": "ash_ar / (100 - moisture) * 100",
   "fc": "100 minus the others, by difference"
  },
- "count": 317,
+ "count": 318,
  "counts": {
-  "complete": 314,
+  "complete": 315,
   "incomplete": 3,
   "not started": 0,
-  "awaiting approval": 58
+  "awaiting approval": 57
  },
  "results": [
   {
@@ -6464,6 +6464,31 @@
    "approved_at": "2026-11-22T22:41:56+05:30"
   },
   {
+   "code": "T1094",
+   "name": "Kontiki-Slider V-1-261116-B-R",
+   "supplier": "R&D Satapar Kontiki Sliding Churi Experiment 1",
+   "date": "2026-11-16",
+   "status": "complete",
+   "pending": [],
+   "moisture": 2.88,
+   "total_moisture": null,
+   "vm_loss": 25.96,
+   "vm_ar": 23.08,
+   "vm_db": 23.77,
+   "ash_ar": 6.29,
+   "ash_db": 6.47,
+   "fc_ar": 67.75,
+   "fc_db": 69.76,
+   "flags": [
+    "VM 23.76 % db above 17.5 % db",
+    "FC 69.76 % db below 72 % db"
+   ],
+   "checks": [],
+   "last_entry": "Girish | Moisture, Volatile Matter, Ash typed in from paper (results page) | 22-Nov-2026 19:06",
+   "approved_by": "Girish",
+   "approved_at": "2026-11-24T11:49:19+05:30"
+  },
+  {
    "code": "T1095",
    "name": "Kontiki-Slider V-1-261116-M-C",
    "supplier": "R&D Satapar Kontiki Sliding Churi Experiment 1",
@@ -7385,18 +7410,6 @@
    "flags": [
     "VM 21.81 % db above 17.5 % db",
     "FC 68.72 % db below 72 % db"
-   ],
-   "checks": []
-  },
-  {
-   "code": "T1094",
-   "name": "Kontiki-Slider V-1-261116-B-R",
-   "supplier": "R&D Satapar Kontiki Sliding Churi Experiment 1",
-   "date": "2026-11-16",
-   "status": "complete",
-   "flags": [
-    "VM 23.76 % db above 17.5 % db",
-    "FC 69.76 % db below 72 % db"
    ],
    "checks": []
   }
