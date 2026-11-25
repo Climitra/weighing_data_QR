@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-25T14:37:49+05:30",
+ "generated": "2026-11-25T14:38:32+05:30",
  "names_updated": "2026-11-22T15:17:16+05:30",
  "limits": {
   "MC": [
@@ -6826,7 +6826,7 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "Ramesh | Volatile Matter W2 | 25-Nov-2026 12:12"
+   "last_entry": "Ramesh | Moisture W1 | 25-Nov-2026 14:38"
   },
   {
    "code": "T992",
