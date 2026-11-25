@@ -73783,6 +73783,78 @@
    "by": "Supervisor (timer)",
    "outAt": 1795431724328,
    "outBy": "Supervisor (timer)"
+  },
+  "2026-11-25-O1-mwvopqhj": {
+   "rid": "2026-11-25-O1-mwvopqhj",
+   "place": "O1",
+   "test": "MC",
+   "tray": null,
+   "items": [
+    {
+     "h": "DISH 1",
+     "code": "T964",
+     "w2": 42.6866
+    },
+    {
+     "h": "DISH 13",
+     "code": "T965",
+     "w2": 44.9191
+    },
+    {
+     "h": "DISH 14",
+     "code": "T966",
+     "w2": 42.7459
+    },
+    {
+     "h": "DISH 15",
+     "code": "T967",
+     "w2": 44.8592
+    },
+    {
+     "h": "DISH 17",
+     "code": "T968",
+     "w2": 44.9598
+    },
+    {
+     "h": "DISH 21",
+     "code": "T969",
+     "w2": 38.4238
+    },
+    {
+     "h": "DISH 22",
+     "code": "T970",
+     "w2": 40.8216
+    },
+    {
+     "h": "DISH 29",
+     "code": "T971",
+     "w2": 38.0249
+    },
+    {
+     "h": "DISH 48",
+     "code": "T972",
+     "w2": 43.2691
+    },
+    {
+     "h": "DISH 5",
+     "code": "T973",
+     "w2": 44.3865
+    },
+    {
+     "h": "DISH 20",
+     "code": "T974",
+     "w2": 43.7487
+    },
+    {
+     "h": "DISH 26",
+     "code": "T975",
+     "w2": 43.8301
+    }
+   ],
+   "bal": 1,
+   "start": 1795584607831,
+   "mins": 60,
+   "by": "Supervisor (timer)"
   }
  },
  "settings": {
