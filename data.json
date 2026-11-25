@@ -75734,7 +75734,9 @@
    "bal": 1,
    "start": 1795584984477,
    "mins": 60,
-   "by": "Supervisor (timer)"
+   "by": "Supervisor (timer)",
+   "outAt": 1795589050792,
+   "outBy": "Supervisor (timer)"
   },
   "2026-11-25-F1-mwvpofil": {
    "rid": "2026-11-25-F1-mwvpofil",
