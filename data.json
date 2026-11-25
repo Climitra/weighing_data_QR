@@ -74754,7 +74754,7 @@
    "tm": false,
    "w": {
     "MC": [
-     null,
+     42.745,
      null,
      null
     ],
@@ -74775,7 +74775,7 @@
     ]
    },
    "pct": {},
-   "last": "Ramesh | Volatile Matter W2 | 25-Nov-2026 12:00",
+   "last": "Ramesh | Moisture W1 | 25-Nov-2026 14:26",
    "ev": [
     {
      "id": "1795588131878-km0ae",
@@ -74816,6 +74816,18 @@
      "by": "Ramesh",
      "a": "hold",
      "k": "MC",
+     "h": "DISH 26",
+     "b": 1
+    },
+    {
+     "id": "1795596974504-hiycu",
+     "t": 1795596974504,
+     "by": "Ramesh",
+     "a": "w",
+     "k": "MC",
+     "s": 1,
+     "v": 42.745,
+     "o": null,
      "h": "DISH 26",
      "b": 1
     }
