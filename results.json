@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-25T12:16:47+05:30",
+ "generated": "2026-11-25T12:17:32+05:30",
  "names_updated": "2026-11-22T15:17:16+05:30",
  "limits": {
   "MC": [
@@ -6623,11 +6623,10 @@
    "date": "2026-10-31",
    "status": "incomplete",
    "pending": [
-    "MC",
     "VM",
     "ASH"
    ],
-   "moisture": null,
+   "moisture": 4.69,
    "total_moisture": null,
    "vm_loss": null,
    "vm_ar": null,
@@ -6638,7 +6637,7 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "Ramesh | Volatile Matter W2 | 25-Nov-2026 11:45"
+   "last_entry": "Ramesh | Moisture W3 | 25-Nov-2026 12:17"
   },
   {
    "code": "T980",
