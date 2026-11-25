@@ -75963,7 +75963,9 @@
    "bal": 1,
    "start": 1795586226573,
    "mins": 60,
-   "by": "Supervisor (timer)"
+   "by": "Supervisor (timer)",
+   "outAt": 1795590243616,
+   "outBy": "Supervisor (timer)"
   },
   "2026-11-25-F2-mwvpqu17": {
    "rid": "2026-11-25-F2-mwvpqu17",
