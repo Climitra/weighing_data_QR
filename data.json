@@ -73939,6 +73939,48 @@
    "start": 1795584607831,
    "mins": 60,
    "by": "Supervisor (timer)"
+  },
+  "2026-11-25-O2-mwvoxt3x": {
+   "rid": "2026-11-25-O2-mwvoxt3x",
+   "place": "O2",
+   "test": "MC",
+   "tray": null,
+   "items": [
+    {
+     "h": "DISH 16",
+     "code": "T976",
+     "w2": 41.9465
+    },
+    {
+     "h": "DISH 23",
+     "code": "T977",
+     "w2": 45.4076
+    },
+    {
+     "h": "DISH 28",
+     "code": "T978",
+     "w2": 42.5689
+    },
+    {
+     "h": "DISH 25",
+     "code": "T979",
+     "w2": 40.299
+    },
+    {
+     "h": "DISH 24",
+     "code": "T980",
+     "w2": 42.5609
+    },
+    {
+     "h": "DISH 27",
+     "code": "T981",
+     "w2": 39.2689
+    }
+   ],
+   "bal": 1,
+   "start": 1795584984477,
+   "mins": 60,
+   "by": "Supervisor (timer)"
   }
  },
  "settings": {
