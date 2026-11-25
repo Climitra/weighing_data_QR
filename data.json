@@ -77273,7 +77273,9 @@
    "bal": 1,
    "start": 1795598645312,
    "mins": 60,
-   "by": "Supervisor (timer)"
+   "by": "Supervisor (timer)",
+   "outAt": 1795602631029,
+   "outBy": "Supervisor (timer)"
   },
   "2026-11-25-F1-mwvzfaqp": {
    "rid": "2026-11-25-F1-mwvzfaqp",
