@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-25T17:10:13+05:30",
+ "generated": "2026-11-25T17:10:35+05:30",
  "names_updated": "2026-11-22T15:17:16+05:30",
  "limits": {
   "MC": [
@@ -6631,21 +6631,20 @@
    "date": "2026-10-31",
    "status": "incomplete",
    "pending": [
-    "VM",
-    "ASH"
+    "VM"
    ],
    "moisture": 3.9,
    "total_moisture": null,
    "vm_loss": null,
    "vm_ar": null,
    "vm_db": null,
-   "ash_ar": null,
-   "ash_db": null,
+   "ash_ar": 4.41,
+   "ash_db": 4.59,
    "fc_ar": null,
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "Ramesh | Moisture W3 | 25-Nov-2026 16:14"
+   "last_entry": "Ramesh | Ash W3 | 25-Nov-2026 17:10"
   },
   {
    "code": "T986",
