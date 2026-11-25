@@ -75404,7 +75404,9 @@
    "bal": 1,
    "start": 1795584607831,
    "mins": 60,
-   "by": "Supervisor (timer)"
+   "by": "Supervisor (timer)",
+   "outAt": 1795588223247,
+   "outBy": "Supervisor (timer)"
   },
   "2026-11-25-O2-mwvoxt3x": {
    "rid": "2026-11-25-O2-mwvoxt3x",
