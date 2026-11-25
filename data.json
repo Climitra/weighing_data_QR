@@ -76632,6 +76632,63 @@
    "by": "Supervisor (timer)",
    "outAt": 1795590244299,
    "outBy": "Supervisor (timer)"
+  },
+  "2026-11-25-O1-mwvx2lvk": {
+   "rid": "2026-11-25-O1-mwvx2lvk",
+   "place": "O1",
+   "test": "MC",
+   "tray": null,
+   "items": [
+    {
+     "h": "DISH 6",
+     "code": "T982",
+     "w2": 41.6251
+    },
+    {
+     "h": "DISH 23",
+     "code": "T983",
+     "w2": 42.5697
+    },
+    {
+     "h": "DISH 5",
+     "code": "T984",
+     "w2": 43.3874
+    },
+    {
+     "h": "DISH 26",
+     "code": "T985",
+     "w2": 43.7452
+    },
+    {
+     "h": "DISH 8",
+     "code": "T986",
+     "w2": 39.9385
+    },
+    {
+     "h": "DISH 25",
+     "code": "T987",
+     "w2": 40.2984
+    },
+    {
+     "h": "DISH 28",
+     "code": "T988",
+     "w2": 43.8326
+    },
+    {
+     "h": "DISH 16",
+     "code": "T990",
+     "w2": 41.9444
+    },
+    {
+     "h": "DISH 20",
+     "code": "T991",
+     "w2": 45.4084
+    }
+   ],
+   "bal": 1,
+   "start": 1795598645312,
+   "mins": 60,
+   "by": "Supervisor (timer)"
   }
  },
  "settings": {
