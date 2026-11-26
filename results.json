@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-26T11:23:09+05:30",
+ "generated": "2026-11-26T11:23:36+05:30",
  "names_updated": "2026-11-22T15:17:16+05:30",
  "limits": {
   "MC": [
@@ -6775,21 +6775,20 @@
    "date": "2026-10-31",
    "status": "incomplete",
    "pending": [
-    "VM",
     "ASH"
    ],
    "moisture": 4.38,
    "total_moisture": null,
-   "vm_loss": null,
-   "vm_ar": null,
-   "vm_db": null,
+   "vm_loss": 19.88,
+   "vm_ar": 15.51,
+   "vm_db": 16.22,
    "ash_ar": null,
    "ash_db": null,
    "fc_ar": null,
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "Mohan | Moisture W3 | 26-Nov-2026 11:03"
+   "last_entry": "Mohan | Volatile Matter W3 | 26-Nov-2026 11:23"
   },
   {
    "code": "T995",
