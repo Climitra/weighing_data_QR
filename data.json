@@ -81122,7 +81122,7 @@
   },
   "MC B261125-5": {
    "test": "MC",
-   "bal": 0,
+   "bal": 1,
    "batch": 5,
    "bid": "B261125-5",
    "day": "2026-11-25",
@@ -81141,11 +81141,13 @@
     "T1011"
    ],
    "at": 1795582091071,
-   "by": "labels page"
+   "by": "labels page",
+   "claimAt": 1795673788846,
+   "claimBy": "Mohan"
   },
   "ASH B261125-5": {
    "test": "ASH",
-   "bal": 0,
+   "bal": 1,
    "batch": 5,
    "bid": "B261125-5",
    "day": "2026-11-25",
@@ -81164,11 +81166,13 @@
     "T1011"
    ],
    "at": 1795582091071,
-   "by": "labels page"
+   "by": "labels page",
+   "claimAt": 1795673788846,
+   "claimBy": "Mohan"
   },
   "VM B261125-5": {
    "test": "VM",
-   "bal": 0,
+   "bal": 1,
    "batch": 5,
    "bid": "B261125-5",
    "day": "2026-11-25",
@@ -81187,7 +81191,9 @@
     "T1011"
    ],
    "at": 1795582091071,
-   "by": "labels page"
+   "by": "labels page",
+   "claimAt": 1795673788846,
+   "claimBy": "Mohan"
   }
  },
  "cardsDeleted": {
