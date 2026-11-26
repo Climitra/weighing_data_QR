@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-26T11:06:04+05:30",
+ "generated": "2026-11-26T11:22:56+05:30",
  "names_updated": "2026-11-22T15:17:16+05:30",
  "limits": {
   "MC": [
@@ -6731,21 +6731,20 @@
    "date": "2026-10-31",
    "status": "incomplete",
    "pending": [
-    "VM",
     "ASH"
    ],
    "moisture": 4.6,
    "total_moisture": null,
-   "vm_loss": null,
-   "vm_ar": null,
-   "vm_db": null,
+   "vm_loss": 19.97,
+   "vm_ar": 15.36,
+   "vm_db": 16.1,
    "ash_ar": null,
    "ash_db": null,
    "fc_ar": null,
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "Mohan | Moisture W3 | 26-Nov-2026 11:04"
+   "last_entry": "Mohan | Volatile Matter W3 | 26-Nov-2026 11:22"
   },
   {
    "code": "T993",
