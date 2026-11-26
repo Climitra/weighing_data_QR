@@ -79972,7 +79972,9 @@
    "bal": 1,
    "start": 1795678356605,
    "mins": 60,
-   "by": "Supervisor (timer)"
+   "by": "Supervisor (timer)",
+   "outAt": 1795683711707,
+   "outBy": "Supervisor (timer)"
   },
   "2026-11-26-F1-mwxazjb5": {
    "rid": "2026-11-26-F1-mwxazjb5",
