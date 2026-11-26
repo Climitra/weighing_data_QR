@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-26T14:28:46+05:30",
+ "generated": "2026-11-26T14:30:51+05:30",
  "names_updated": "2026-11-22T15:17:16+05:30",
  "limits": {
   "MC": [
@@ -6979,11 +6979,10 @@
    "date": "2026-11-02",
    "status": "incomplete",
    "pending": [
-    "MC",
     "VM",
     "ASH"
    ],
-   "moisture": null,
+   "moisture": 2.76,
    "total_moisture": null,
    "vm_loss": null,
    "vm_ar": null,
@@ -6994,7 +6993,7 @@
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "Mohan | Volatile Matter W2 | 26-Nov-2026 12:43"
+   "last_entry": "Mohan | Moisture W3 | 26-Nov-2026 14:30"
   },
   {
    "code": "T1007",
