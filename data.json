@@ -79716,7 +79716,7 @@
   },
   "MC B261125-4": {
    "test": "MC",
-   "bal": 0,
+   "bal": 1,
    "batch": 4,
    "bid": "B261125-4",
    "day": "2026-11-25",
@@ -79735,11 +79735,13 @@
     "T1001"
    ],
    "at": 1795582091071,
-   "by": "labels page"
+   "by": "labels page",
+   "claimAt": 1795664133601,
+   "claimBy": "Mohan"
   },
   "ASH B261125-4": {
    "test": "ASH",
-   "bal": 0,
+   "bal": 1,
    "batch": 4,
    "bid": "B261125-4",
    "day": "2026-11-25",
@@ -79758,11 +79760,13 @@
     "T1001"
    ],
    "at": 1795582091071,
-   "by": "labels page"
+   "by": "labels page",
+   "claimAt": 1795664133601,
+   "claimBy": "Mohan"
   },
   "VM B261125-4": {
    "test": "VM",
-   "bal": 0,
+   "bal": 1,
    "batch": 4,
    "bid": "B261125-4",
    "day": "2026-11-25",
@@ -79781,7 +79785,9 @@
     "T1001"
    ],
    "at": 1795582091071,
-   "by": "labels page"
+   "by": "labels page",
+   "claimAt": 1795664133601,
+   "claimBy": "Mohan"
   },
   "MC B261125-5": {
    "test": "MC",
