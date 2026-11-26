@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-26T14:42:41+05:30",
+ "generated": "2026-11-26T14:42:54+05:30",
  "names_updated": "2026-11-22T15:17:16+05:30",
  "limits": {
   "MC": [
@@ -41,8 +41,8 @@
  },
  "count": 416,
  "counts": {
-  "complete": 394,
-  "incomplete": 13,
+  "complete": 395,
+  "incomplete": 12,
   "not started": 9,
   "awaiting approval": 8
  },
@@ -6925,22 +6925,20 @@
    "name": "GOR/38",
    "supplier": "Tata 500 PO dMRV · Gorewali · Jumbo bag sampling",
    "date": "2026-11-02",
-   "status": "incomplete",
-   "pending": [
-    "VM"
-   ],
+   "status": "complete",
+   "pending": [],
    "moisture": 7.16,
    "total_moisture": null,
-   "vm_loss": null,
-   "vm_ar": null,
-   "vm_db": null,
+   "vm_loss": 23.0,
+   "vm_ar": 15.84,
+   "vm_db": 17.06,
    "ash_ar": 7.2,
    "ash_db": 7.75,
-   "fc_ar": null,
-   "fc_db": null,
+   "fc_ar": 69.8,
+   "fc_db": 75.19,
    "flags": [],
    "checks": [],
-   "last_entry": "Mohan | Ash W3 | 26-Nov-2026 14:33"
+   "last_entry": "Mohan | Volatile Matter W3 | 26-Nov-2026 14:42"
   },
   {
    "code": "T1005",
