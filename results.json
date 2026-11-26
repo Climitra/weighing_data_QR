@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-26T14:33:27+05:30",
+ "generated": "2026-11-26T14:41:43+05:30",
  "names_updated": "2026-11-22T15:17:16+05:30",
  "limits": {
   "MC": [
@@ -6953,21 +6953,20 @@
    "date": "2026-11-02",
    "status": "incomplete",
    "pending": [
-    "VM",
-    "ASH"
+    "VM"
    ],
    "moisture": 2.43,
    "total_moisture": null,
    "vm_loss": null,
    "vm_ar": null,
    "vm_db": null,
-   "ash_ar": null,
-   "ash_db": null,
+   "ash_ar": 6.09,
+   "ash_db": 6.24,
    "fc_ar": null,
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "Mohan | Moisture W3 | 26-Nov-2026 14:26"
+   "last_entry": "Mohan | Ash W3 | 26-Nov-2026 14:33"
   },
   {
    "code": "T1006",
@@ -6976,21 +6975,20 @@
    "date": "2026-11-02",
    "status": "incomplete",
    "pending": [
-    "VM",
-    "ASH"
+    "VM"
    ],
    "moisture": 2.76,
    "total_moisture": null,
    "vm_loss": null,
    "vm_ar": null,
    "vm_db": null,
-   "ash_ar": null,
-   "ash_db": null,
+   "ash_ar": 5.21,
+   "ash_db": 5.36,
    "fc_ar": null,
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "Mohan | Moisture W3 | 26-Nov-2026 14:30"
+   "last_entry": "Mohan | Ash W3 | 26-Nov-2026 14:33"
   },
   {
    "code": "T1007",
@@ -6999,21 +6997,20 @@
    "date": "2026-11-02",
    "status": "incomplete",
    "pending": [
-    "VM",
-    "ASH"
+    "VM"
    ],
    "moisture": 2.81,
    "total_moisture": null,
    "vm_loss": null,
    "vm_ar": null,
    "vm_db": null,
-   "ash_ar": null,
-   "ash_db": null,
+   "ash_ar": 5.03,
+   "ash_db": 5.17,
    "fc_ar": null,
    "fc_db": null,
    "flags": [],
    "checks": [],
-   "last_entry": "Mohan | Moisture W3 | 26-Nov-2026 14:27"
+   "last_entry": "Mohan | Ash W3 | 26-Nov-2026 14:34"
   },
   {
    "code": "T1008",
