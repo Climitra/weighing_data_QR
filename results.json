@@ -1,7 +1,7 @@
 {
  "app": "proximate-results",
  "version": 1,
- "generated": "2026-11-26T14:43:56+05:30",
+ "generated": "2026-11-27T17:16:04+05:30",
  "names_updated": "2026-11-22T15:17:16+05:30",
  "limits": {
   "MC": [
@@ -41,8 +41,8 @@
  },
  "count": 416,
  "counts": {
-  "complete": 398,
-  "incomplete": 9,
+  "complete": 399,
+  "incomplete": 8,
   "not started": 9,
   "awaiting approval": 8
  },
@@ -127,10 +127,8 @@
    "name": "AP-PMD/24-09-26/B",
    "supplier": "Climitra Lab Portal · Narayana Swami",
    "date": "2026-10-02",
-   "status": "incomplete",
-   "pending": [
-    "TM"
-   ],
+   "status": "complete",
+   "pending": [],
    "moisture": 4.24,
    "total_moisture": null,
    "vm_loss": 23.86,
